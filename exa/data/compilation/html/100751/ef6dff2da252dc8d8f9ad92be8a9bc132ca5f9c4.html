@@ -1,0 +1,720 @@
+
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <title>Policies and Guidance | Office of Information Technology</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//assetfiles.ua.edu' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://oit.ua.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Foit.ua.edu%2Fabout%2Fpolicies-and-guidance%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://oit.ua.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Foit.ua.edu%2Fabout%2Fpolicies-and-guidance%2F&#038;format=xml" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v10.0.3 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-STPXER41XZ"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '10.0.3';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/oit.ua.edu\/about\/policies-and-guidance\/"};
+								if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+				} else {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
+				}
+
+								var disableStrs = [
+										'ga-disable-G-STPXER41XZ',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+					if ( MonsterInsightsLocations.page_location ) {
+						__gtagTracker('set', MonsterInsightsLocations);
+					}
+										__gtagTracker('config', 'G-STPXER41XZ', {"forceSSL":"true","link_attribution":"true"} );
+										window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+							<!-- / Google Analytics by MonsterInsights -->
+		<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+<style id='wp-block-heading-inline-css' type='text/css'>
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://oit.ua.edu/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id='wp-block-list-inline-css' type='text/css'>
+ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:1.25em 2.375em}
+/*# sourceURL=https://oit.ua.edu/wp-includes/blocks/list/style.min.css */
+</style>
+<style id='wp-block-post-content-inline-css' type='text/css'>
+.wp-block-post-content{display:flow-root}
+/*# sourceURL=https://oit.ua.edu/wp-includes/blocks/post-content/style.min.css */
+</style>
+<style id='wp-block-post-title-inline-css' type='text/css'>
+.wp-block-post-title{box-sizing:border-box;word-break:break-word}.wp-block-post-title :where(a){display:inline-block;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;text-decoration:inherit}
+/*# sourceURL=https://oit.ua.edu/wp-includes/blocks/post-title/style.min.css */
+</style>
+<style id='wp-block-columns-inline-css' type='text/css'>
+.wp-block-columns{box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns{align-items:normal!important}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-stretch{align-self:stretch}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
+/*# sourceURL=https://oit.ua.edu/wp-includes/blocks/columns/style.min.css */
+</style>
+<style id='wp-block-paragraph-inline-css' type='text/css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://oit.ua.edu/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: var(--ua_font-size--small);--wp--preset--font-size--medium: var(--ua_font-size--medium);--wp--preset--font-size--large: var(--ua_font-size--large);--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--xsmall: var(--ua_font-size--xsmall);--wp--preset--font-size--ui: inherit;--wp--preset--font-size--normal: var(--ua_font-size--normal);--wp--preset--font-size--xlarge: var(--ua_font-size--xlarge);--wp--preset--font-size--xxlarge: var(--ua_font-size--xxlarge);--wp--preset--font-family--body: var(--ua_font--body);--wp--preset--font-family--heading: var(--ua_font--heading);--wp--preset--font-family--accent: var(--ua_font--accent);--wp--preset--font-family--mono: var(--ua_font--mono);--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--spacing--05: var(--ua_space--05);--wp--preset--spacing--1: var(--ua_space--1);--wp--preset--spacing--2: var(--ua_space--2);--wp--preset--spacing--flow-half: var(--ua_space--flow-half);--wp--preset--spacing--gutter: var(--ua_space--gutter);--wp--preset--spacing--4: var(--ua_space--4);--wp--preset--spacing--flow: var(--ua_space--flow);--wp--preset--spacing--gap: var(--ua_space--grid-gap);--wp--preset--spacing--8: var(--ua_space--8);--wp--preset--spacing--flow-double: var(--ua_space--flow-double);--wp--preset--spacing--16: var(--ua_space--16);--wp--preset--spacing--section: var(--ua_space--section);--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-cover{--wp--preset--color--white: #ffffff;--wp--preset--color--black: #000000;}:root { --wp--style--global--content-size: var(--ua_layout-width--content, 58rem);--wp--style--global--wide-size: var(--ua_layout-width--wide, 78rem); }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{font-family: var(--ua_typeset--normal);padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: var(--ua_color-link, #9e1b32);border-radius: 0;border-width: 0;color: var(--ua_color-link--inverse, white);font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: .2em;line-height: inherit;padding-top: .25em;padding-right: .75em;padding-bottom: .25em;padding-left: .75em;text-decoration: none;text-transform: uppercase;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-xsmall-font-size{font-size: var(--wp--preset--font-size--xsmall) !important;}.has-ui-font-size{font-size: var(--wp--preset--font-size--ui) !important;}.has-normal-font-size{font-size: var(--wp--preset--font-size--normal) !important;}.has-xlarge-font-size{font-size: var(--wp--preset--font-size--xlarge) !important;}.has-xxlarge-font-size{font-size: var(--wp--preset--font-size--xxlarge) !important;}.has-body-font-family{font-family: var(--wp--preset--font-family--body) !important;}.has-heading-font-family{font-family: var(--wp--preset--font-family--heading) !important;}.has-accent-font-family{font-family: var(--wp--preset--font-family--accent) !important;}.has-mono-font-family{font-family: var(--wp--preset--font-family--mono) !important;}.wp-block-cover.has-white-color{color: var(--wp--preset--color--white) !important;}.wp-block-cover.has-black-color{color: var(--wp--preset--color--black) !important;}.wp-block-cover.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.wp-block-cover.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.wp-block-cover.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.wp-block-cover.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='ua-styles-css' href='https://oit.ua.edu/wp-content/themes/ua-theme/assets/styles/ua-theme-3.6.3.css?ver=6.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://assetfiles.ua.edu/fonts/fa_v6/fontawesome.css?ver=6.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-banner-styles-css' href='https://oit.ua.edu/wp-content/themes/ua-theme/assets/styles/cookie-banner.css?ver=6.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ua-tokens-css' href='https://oit.ua.edu/wp-content/themes/ua-theme/assets/styles/ua-tokens-3.6.3.css?ver=6.9.1' type='text/css' media='all' />
+<script type="text/javascript" src="https://oit.ua.edu/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=10.0.3" id="monsterinsights-frontend-script-js" async="async" data-wp-strategy="async"></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id='monsterinsights-frontend-script-js-extra'>/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/oit.ua.edu","hash_tracking":"false","v4_id":"G-STPXER41XZ"};/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://oit.ua.edu/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://oit.ua.edu/wp-json/wp/v2/pages/162" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://oit.ua.edu/xmlrpc.php?rsd" />
+<link rel="canonical" href="https://oit.ua.edu/about/policies-and-guidance/" />
+<link rel='shortlink' href='https://oit.ua.edu/?p=162' />
+<meta name="description" content="" /><meta property="og:description" content="" /><meta property="og:type" content="website" /><meta property="og:title" content="Policies and Guidance - Office of Information Technology | The University of Alabama" /><meta name="twitter:card" content="summary" /><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="https://assetfiles.ua.edu/brand/favicons/favicon.ico" sizes="32x32">
+    <link rel="icon" href="https://assetfiles.ua.edu/brand/favicons/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="https://assetfiles.ua.edu/brand/favicons/apple-touch-icon.png">
+    <link rel="manifest" href="https://assetfiles.ua.edu/brand/favicons/manifest.webmanifest"><!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=471892333"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag("js", new Date());
+        gtag("config", "471892333");
+      </script>		<style type="text/css" id="wp-custom-css">
+			.dsc-util_nudge--width {
+  margin-left: -5px !important;
+  margin-right: -5px !important;
+  width: calc(100% + 10px) !important;
+  max-width: calc(100% + 10px) !important;
+}
+
+.dsc-util_nudge--bottom {
+	margin-bottom: -5px !important;}
+
+.dsc-util_nudge--top {
+	margin-top: -5px !important;
+}
+
+.wp-block-cover.home_pattern-fade-top--crimson .wp-block-cover__background {
+  background: linear-gradient(#9E1B32,transparent, transparent, transparent, transparent);
+  opacity: 100 !important;
+  background-color: transparent !important;
+}		</style>
+		  <style id='core-block-supports-inline-css' type='text/css'>
+.wp-container-core-columns-is-layout-28f84493{flex-wrap:nowrap;}
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+
+</head>
+
+  <body class="wp-singular page-template-default page page-id-162 page-parent page-child parent-pageid-58 wp-embed-responsive wp-theme-ua-theme" >
+        <div class="ua_minerva ua_experimental-margins" id="ua_app">
+
+      <header>
+        <section class="ua_brand-bar">
+  <a class="screen-reader-text skip-link" href="#wp--skip-link--target">Skip to content</a>
+  <div class="ua_brand-bar_content">
+    <a href="https://ua.edu" class="ua_brand-bar_logo">
+      <img src="https://assetfiles.ua.edu/brand/logos/UA_Wordmark-White.svg" alt="The University of Alabama" />
+    </a>
+    <a href="http://mybama.ua.edu/" class="ua_brand-bar_link">myBama</a>
+  </div>
+</section>
+        <section id="UA_TitleBar" class="ua_title-bar">
+  <div class="ua_title-bar_content" id="UA_TitleBar_Content">
+    <div class="ua_title-bar_expander-row">
+      <div class="ua_title-bar_title-group">
+        <a href="https://oit.ua.edu" class="ua_title-bar_name">
+          Office of Information Technology        </a>
+              </div>
+      <button
+        type="button"
+        id="UA_TitleBarExpander"
+        class="ua_title-bar_expander"
+        aria-expanded="false"
+        aria-haspopup="true"
+        aria-controls="UA_TitleBar_Search UA_PrimaryNav"
+      >
+        <span class="ua_title-bar_expander_closed" aria-hidden="false">
+          <span class="fa fa-bars" title="Expand title bar menu" aria-hidden="false"></span>
+          <span class="ua_visually-hidden">Expand title bar menu</span>
+        </span>
+        <span class="ua_title-bar_expander_open" aria-hidden="true">
+          <span class="fa fa-xmark" title="Close title bar menu" aria-hidden="true"></span>
+          <span class="ua_visually-hidden">Close title bar menu</span>
+        </span>
+      </button>
+    </div>
+      <form
+        id="UA_TitleSearch"
+        action="https://oit.ua.edu"
+        method="GET"
+        class="ua_input-group ua_title-bar_search"
+        role="search"
+        aria-label="Sitewide"
+        aria-hidden="true"
+      >
+        <label class="ua_visually-hidden" for="UA_TitleSearch_Input">
+          Search This Site
+        </label>
+        <input type="search" role="searchbox" name="s" id="UA_TitleSearch_Input" />
+        <button type="submit">
+          <span class="fa fa-magnifying-glass" title="Submit" aria-hidden="true"></span>
+          <span class="ua_visually-hidden">Submit</span>
+        </button>
+      </form>
+    </div>
+      <nav aria-label="Primary Navigation" class="ua_primary-navigation" id="UA_PrimaryNav" aria-hidden="true">
+      <ul id="menu-primary-menu" class="ua_primary-navigation_list"><li><a href="https://oit.ua.edu/">Home</a></li>
+<li class="ua_menu-item-parent"><a href="https://oit.ua.edu/about/">About</a>
+        <button>
+          <span class="ua_primary-navigation_inactive_content">
+            <span class="fa fa-caret-down" title="Expand About menu" aria-hidden="true"></span>
+            <span class="ua_visually-hidden">Expand About menu</span>
+          </span>
+
+          <span class="ua_primary-navigation_active_content">
+            <span class="fa fa-caret-up" title="Close About menu" aria-hidden="true"></span>
+            <span class="ua_visually-hidden">Close About menu</span>
+          </span>
+        </button><ul>	<li><a href="https://oit.ua.edu/about/standing-it-committees-and-councils/">Standing IT Committees and Councils</a></li>
+	<li><a href="https://oit.ua.edu/about/it-for-faculty-staff/">IT for Faculty &amp; Staff</a></li>
+	<li><a href="https://oit.ua.edu/about/it-for-students/">IT For Students</a></li>
+	<li><a href="https://oit.ua.edu/about/admin-team/">Leadership Team</a></li>
+	<li><a href="https://oit.ua.edu/about/organizational-chart/">Organizational Chart</a></li>
+	<li><a href="https://oit.ua.edu/about/policies-and-guidance/">Policies and Guidance</a></li>
+	<li><a href="https://oit.ua.edu/about/strategic-plan/">Strategic Plan</a></li>
+</ul>
+</li>
+<li class="ua_menu-item-parent"><a href="https://oit.ua.edu/services/">Services</a>
+        <button>
+          <span class="ua_primary-navigation_inactive_content">
+            <span class="fa fa-caret-down" title="Expand Services menu" aria-hidden="true"></span>
+            <span class="ua_visually-hidden">Expand Services menu</span>
+          </span>
+
+          <span class="ua_primary-navigation_active_content">
+            <span class="fa fa-caret-up" title="Close Services menu" aria-hidden="true"></span>
+            <span class="ua_visually-hidden">Close Services menu</span>
+          </span>
+        </button><ul>	<li><a href="https://oit.ua.edu/services/application-support/">Application Support</a></li>
+	<li><a href="https://oit.ua.edu/services/audio-visual-solutions/">Audio Visual Solutions</a></li>
+	<li><a href="https://oit.ua.edu/services/custom-development/">Custom Development</a></li>
+	<li><a href="https://oit.ua.edu/services/cybersecurity/">Cybersecurity Resources</a></li>
+	<li><a href="https://oit.ua.edu/services/database-administration-services/">Database Administration Services</a></li>
+	<li><a href="https://oit.ua.edu/services/email-collaboration/">Email &amp; Collaboration</a></li>
+	<li><a href="https://oit.ua.edu/services/gis-services/">GIS Services</a></li>
+	<li><a href="https://oit.ua.edu/services/hosting-services/">Hosting Services</a></li>
+	<li><a href="http://cit.ua.edu">Instructional Technology</a></li>
+	<li><a href="https://oit.ua.edu/services/internet-networking/">Internet &amp; Networking</a></li>
+	<li><a href="https://oit.ua.edu/services/mybama/">myBama</a></li>
+	<li><a href="https://oit.ua.edu/services/project-management-office/">Project Management</a></li>
+	<li><a href="https://oit.ua.edu/services/reporting-tools/">Reporting Tools</a></li>
+	<li><a href="http://hpc.ua.edu">Research Computing</a></li>
+	<li><a href="https://oit.ua.edu/services/researchsecurity/">Research Security</a></li>
+	<li><a href="https://accessibility.ua.edu/">Technology Accessibility</a></li>
+	<li><a href="https://oit.ua.edu/services/userservices/#TelecomAnchor">Telecommunications</a></li>
+	<li><a href="https://oit.ua.edu/services/userservices/">User Services</a></li>
+</ul>
+</li>
+<li><a href="https://oit.ua.edu/software/">Software</a></li>
+<li><a href="https://oit.ua.edu/news/">News</a></li>
+<li><a href="https://oit-status-page.oitapps.ua.edu/serviceStatus">Status</a></li>
+<li><a href="https://oit.ua.edu/contact/">Contact</a></li>
+<li><a href="https://oit.ua.edu/services/cybersecurity/report-an-incident/">Report an Incident</a></li>
+</ul>    </nav>
+    </section>
+              </header>
+
+      <main id="wp--skip-link--target" class="ua_page">
+        
+          
+          <nav aria-label="Supplementary Navigation" class="ua_page_sub-nav ua_secondary-navigation" id="UA_SecondaryNav"><ul id="menu-about-sub-menu" class="ua_secondary-navigation_list"><li aria-haspopup=true aria-expanded=true><span><a href="https://oit.ua.edu/about/">About</a>
+        <button>
+          <span class="ua_secondary-navigation_inactive_content">
+            <span class="fa fa-caret-down" title="Expand About menu" aria-hidden="true"></span>
+            <span class="ua_visually-hidden">Expand About menu</span>
+          </span>
+
+          <span class="ua_secondary-navigation_active_content">
+            <span class="fa fa-caret-up" title="Close About menu" aria-hidden="false"></span>
+            <span class="ua_visually-hidden">Close About menu</span>
+          </span>
+        </button></span><ul aria-hidden='false' aria-label='About submenu'>	<li><span><a href="https://oit.ua.edu/about/standing-it-committees-and-councils/">Standing IT Committees and Councils</a></span></li>
+	<li><span><a href="https://oit.ua.edu/about/it-for-faculty-staff/">IT for Faculty &amp; Staff</a></span></li>
+	<li><span><a href="https://oit.ua.edu/about/it-for-students/">IT For Students</a></span></li>
+	<li><span><a href="https://oit.ua.edu/about/admin-team/">Leadership Team</a></span></li>
+	<li><span><a href="https://oit.ua.edu/about/organizational-chart/">Organizational Chart</a></span></li>
+	<liclass="ua_secondary-navigation_link--active"><span><a aria-current="true" href="https://oit.ua.edu/about/policies-and-guidance/">Policies and Guidance</a></span></li>
+	<li aria-haspopup=true aria-expanded=true><span><a href="https://oit.ua.edu/about/strategic-plan-2022-2025/">Strategic Plan</a>
+        <button>
+          <span class="ua_secondary-navigation_inactive_content">
+            <span class="fa fa-caret-down" title="Expand Strategic Plan menu" aria-hidden="true"></span>
+            <span class="ua_visually-hidden">Expand Strategic Plan menu</span>
+          </span>
+
+          <span class="ua_secondary-navigation_active_content">
+            <span class="fa fa-caret-up" title="Close Strategic Plan menu" aria-hidden="false"></span>
+            <span class="ua_visually-hidden">Close Strategic Plan menu</span>
+          </span>
+        </button></span><ul aria-hidden='false' aria-label='Strategic Plan submenu'>		<li><span><a href="https://oit.ua.edu/about/strategic-plan-2022-2025/2022-2025-strategic-plan-text-only/">2022-2025 Strategic Plan (Text Only)</a></span></li>
+		<li><span><a href="https://oit.ua.edu/about/strategic-plan-2022-2025/empowering-legends/">2019 – 2022 OIT Strategic Plan, Empowering Legends</a></span></li>
+		<li><span><a href="https://oit.ua.edu/about/strategic-plan-2022-2025/empowering-legends/empowering-legends-report/">Empowering Legends Report</a></span></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul></nav>
+                <div class="ua_page_content is-layout-flow">
+          <div class="ua_layout--standard">
+            <h1 class="ua-util_align--left ua_page_title wp-block-post-title">Policies and Guidance</h1></div>
+            <div class="entry-content is-layout-flow wp-block-post-content is-layout-constrained wp-block-post-content-is-layout-constrained">
+
+
+<h3 class="wp-block-heading">Review our policies, standards, procedures, and guidelines below and contact us with any questions.</h3>
+
+
+
+<h2 class="wp-block-heading">Policies:</h2>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://oit.ua.edu/about/policies-and-guidance/cellular-telephone-policy/">Cellular Telephone Policy (for University-owned telephones)</a></li>
+
+
+
+<li><a href="https://ua-public.policystat.com/policy/18504824/latest">Cyber Research Network Access and Use Policy</a></li>
+
+
+
+<li><a href="https://ua-public.policystat.com/policy/14663819/latest">Gramm-Leach-Bliley Act Information Security Program</a></li>
+
+
+
+<li><a href="https://ua-public.policystat.com/policy/14663799/latest">HIPAA Core Security Policy</a></li>
+
+
+
+<li><a href="https://ua-public.policystat.com/policy/14663826/latest">Information Classification Policy</a></li>
+
+
+
+<li><a href="https://ua-public.policystat.com/policy/14865470/latest/">Terms of Use of University Technology Resources</a></li>
+
+
+
+<li><a href="https://ua-public.policystat.com/policy/14663821/latest">Web Resources Accessibility Policy</a></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Standards and Guidelines:</h2>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://oit.ua.edu/about/policies-and-guidance/it-practice-procedure-copyright-infringement-notification-response/">Copyright Infringement Notification Response</a></li>
+
+
+
+<li><a href="https://oit.ua.edu/about/policies-and-guidance/electronic-storage-media-destruction-and-sanitization/"></a><a href="https://oit.ua.edu/about/policies-and-guidance/electronic-storage-media-destruction-and-sanitization/">Electronic Storage Media Destruction and Sanitization</a></li>
+
+
+
+<li><a href="https://oit.ua.edu/about/policies-and-guidance/email-account-management-post-employment/">Email Account Management Post Employment</a></li>
+
+
+
+<li><a href="https://oit.ua.edu/services/cybersecurity/minimum-security-standards/" target="_blank" rel="noreferrer noopener">Minimum Security Standards</a></li>
+
+
+
+<li><a href="https://oit.ua.edu/about/policies-and-guidance/it-guideline-software-as-a-service-purchases/">SAAS Purchasing</a></li>
+
+
+
+<li><a href="https://oit.ua.edu/about/policies-and-guidance/secure-remote-technology-guidelines/">Secure Remote Technology Guidelines</a></li>
+
+
+
+<li><a href="https://oit.ua.edu/about/policies-and-guidance/it-use-guideline-wireless-device-connections/">Wireless Device Connections</a></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Plans and Procedures</h2>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://oit.ua.edu/about/policies-and-guidance/copyright-compliance/">Copyright Compliance</a></li>
+
+
+
+<li><a href="https://oit.ua.edu/about/policies-and-guidance/information-protection-procedure/">Information Protection Procedure</a></li>
+
+
+
+<li><a href="https://oit.ua.edu/services/cybersecurity/policies-and-guidance/information-security-incident-response-procedures/">Information Security Incident Response Plan</a></li>
+
+
+
+<li><a href="https://oit.ua.edu/about/policies-and-guidance/payment-card-industry-pci-data-security-standard/">Payment Card Industry (PCI) Data Security Standard</a></li>
+
+
+
+<li><a href="https://oit.ua.edu/about/policies-and-guidance/ua-plan-for-higher-education-opportunity-act-heoa-compliance/">UA Plan for Higher Education Opportunity Act (HEOA) Compliance</a></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Applicable University of Alabama Policies</h2>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://ua-public.policystat.com/policy/14671027/latest" target="_blank" rel="noreferrer noopener">Web Policy</a></li>
+</ul>
+
+
+
+<p></p>
+</div>
+                  </div>
+      </main>
+
+      <footer>
+                <section class="ua_site-footer">
+  <div class="ua_site-footer_container">
+    <div class="ua_site-footer_content">
+      
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h2 class="wp-block-heading">About Us</h2>
+
+
+
+<p>The University of Alabama<br>Office of Information Technology<br>125 Gordon Palmer Hall<br>(205) 348-5555<br>ITSD@ua.edu<br>Box 870346</p>
+
+
+
+<p><a href="https://oit.ua.edu/contact/" data-type="page" data-id="88">Visit our Contact page for more information</a></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h2 class="wp-block-heading">Quick Links</h2>
+
+
+<div class="ua_component_wrapper  "><ul class="ua_link-list ua_layout--grid" style="--grid-column-count: 2">
+<li><a href="https://oit.ua.edu/software/" class="ua_link-list_item"> Download Software</a></li>
+
+<li><a href="https://oit.ua.edu/services/userservices/login-help/password-recovery/" class="ua_link-list_item"> Recover Password</a></li>
+
+<li><a href="https://oit.ua.edu/services/userservices/login-help/password-change/" class="ua_link-list_item"> Change Password</a></li>
+
+<li><a href="https://outlook.office.com/" class="ua_link-list_item"> Email Access</a></li>
+</ul></div></div>
+</div>
+    </div>
+    <div class="ua_site-footer_logos">
+      <a href="https://uasystem.edu/" target="_blank" rel="noreferrer" class="ua_site-footer_ua-system">
+        <img alt="" src="https://assetfiles.ua.edu/brand/logos/UA_System.svg" />
+        <span class="ua_visually-hidden">Part of the University of Alabama System</span>
+      </a>
+      <div class="ua_site-footer_denny-chimes" id="DennyChimes"></div>
+    </div>
+  </div>
+</section>
+        <section class="ua_brand-footer">
+  <div class="ua_brand-footer_content">
+    <div class="ua_brand-footer_logo-copyright">
+      <img src="https://assetfiles.ua.edu/brand/logos/Capstone_A-White.svg" alt="The University of Alabama Logo" />
+      <p>
+        <span>
+          <a href="https://www.ua.edu/copyright">Copyright &copy; 2026</a>
+          <a href="https://www.ua.edu"> The University of Alabama</a>
+        </span>
+        <span>
+          <a href="tel:+12053486010">(205) 348-6010</a>
+        </span>
+        <span>
+          <a href="https://www.ua.edu/contact">Contact UA</a>
+        </span>
+      </p>
+    </div>
+    <nav aria-label="Legal Links">
+      <ul class="ua_brand-footer_link-list">
+        <li>
+          <a href="https://accessibility.ua.edu/statement/">Accessibility</a>
+        </li>
+        <li>
+          <a href="https://oie.ua.edu/accreditation">SACSCOC</a>
+        </li>
+        <li>
+          <a href="https://login.ua.edu/cas/login?service=https%3a%2f%2fw.taskstream.com%2fCas%2fLogin%3fpartnerId%3dksh0hphohk">
+            Taskstream
+          </a>
+        </li>
+        <li>
+          <a href="http://eop.ua.edu/">Equal Opportunity</a>
+        </li>
+        <li>
+          <a href="http://compliance.ua.edu/privacy/dsar/">Data Access Request</a>
+        </li>
+        <li>
+          <a href="https://www.ua.edu/disclaimer">Disclaimer</a>
+        </li>
+        <li>
+          <a href="https://www.ua.edu/privacy">Privacy</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</section>
+      </footer>
+
+    </div>
+    <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/ua-theme/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<div class="ua_cookie-banner__container" hidden id="ua_cookie-banner__container">
+      <div class="ua_cookie-banner__content">
+        <p>This website uses cookies to collect information to improve your browsing experience. Please review our <a href="https://www.ua.edu/privacy">Privacy Statement</a> for more information.</p>
+        <button>I understand</button>
+      </div>
+    </div><script type="module" src="https://oit.ua.edu/wp-content/themes/ua-theme/assets/scripts/ua-theme-3.6.3.js" id="ua-scripts-js"></script>
+<script type="text/javascript" src="https://oit.ua.edu/wp-content/themes/ua-theme/assets/scripts/cookie-banner.js?ver=6.9.1" id="cookie-banner-scripts-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://oit.ua.edu/wp-includes/js/wp-emoji-release.min.js?ver=6.9.1"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://oit.ua.edu/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+  </body>
+</html>

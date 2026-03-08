@@ -1,0 +1,23 @@
+unitid,instnm,url,ok,status_code,content_type,saved_path,error
+100724,Alabama State University,https://www.alasu.edu/_qa/ASU%20AI%20Use%20Policy_Approved%202.2.2024.pdf,False,200,application/pdf,,skipped_non_html
+100724,Alabama State University,https://www.alasu.edu/_qa/board-of-trustee-asu-policies.php,True,200,text/html; charset=utf-8,data/compilation/html/100724/74c906a21da7d9ec90276f1af88ac57e7967bfea.html,
+100724,Alabama State University,https://www.lib.alasu.edu/ai-resources.html,True,200,text/html,data/compilation/html/100724/dc4f63d4acde4ea2bf072e6c898e62afc987da09.html,
+100724,Alabama State University,https://www.alasu.edu/_qa/office-of-technology-services-policies-and-procedures-acceptable-use.pdf,False,200,application/pdf,,skipped_non_html
+100724,Alabama State University,https://www.alasu.edu/student-affairs/current-students/pilot-updated.pdf,False,200,application/pdf,,skipped_non_html
+100724,Alabama State University,https://www.alasu.edu/administration/presidents-report-2025-final.pdf,False,200,application/pdf,,skipped_non_html
+100724,Alabama State University,https://www.alasu.edu/administration/technology-services/office-of-technology-services-policies-and-procedures.php,True,200,text/html; charset=utf-8,data/compilation/html/100724/ebd866ded0a375529eb7b12e05e9ddd6ea93dc3d.html,
+100724,Alabama State University,https://www.alasu.edu/_qa/human-resources-computer-usage.php,True,200,text/html; charset=utf-8,data/compilation/html/100724/66bee694b984ad51a397dffb68622f801aa7df6f.html,
+100724,Alabama State University,https://www.alasu.edu/administration/institutional-effectiveness/marketing-and-strategic-communications/digital-branding-guidelines.php,True,200,text/html; charset=utf-8,data/compilation/html/100724/88ade94aef0f78540776b8be27525f09aefd754a.html,
+100724,Alabama State University,https://www.alasu.edu/academics/academicsmission.php,True,200,text/html; charset=utf-8,data/compilation/html/100724/48eae44f0149afa71600553458374042c4607f8a.html,
+100724,Alabama State University,https://www.alasu.edu/administration/board-of-trustees/faculty-credentialing-qualifications-policy.pdf,False,200,application/pdf,,skipped_non_html
+100724,Alabama State University,https://alasu.edu/administration/institutional-effectiveness/accreditation/substantive-change-policy.pdf,False,200,application/pdf,,skipped_non_html
+100724,Alabama State University,https://careertraining.alasu.edu/training-programs/data-science-and-artificial-intelligence-course/,True,403,text/html,data/compilation/html/100724/571f29c8e39406ecbdd4593eeef7f95911702375.html,
+100724,Alabama State University,https://www.alasu.edu/_qa/ASU%202019_2021%20FINAL%20CATALOG_MAIN%202.pdf,False,200,application/pdf,,skipped_non_html
+100724,Alabama State University,https://www.alasu.edu/_qa/28636-ASU-undergraduate-catalog_0.pdf,False,200,application/pdf,,skipped_non_html
+100724,Alabama State University,https://www.alasu.edu/,True,200,text/html; charset=utf-8,data/compilation/html/100724/b8938c110fa00fcbab15664a2dccb5b6ce84edb1.html,
+100724,Alabama State University,https://www.alasu.edu/student-affairs/student-conduct.php,True,200,text/html; charset=utf-8,data/compilation/html/100724/4d3a8753f615bb10738907e402bd0a5d94c1a0bb.html,
+100724,Alabama State University,https://www.alasu.edu/_qa/The%20Pilot.%20ASU%20Student%20Handbook.pdf,False,200,application/pdf,,skipped_non_html
+100724,Alabama State University,https://www.alasu.edu/_qa/handbook-policies.php,True,200,text/html; charset=utf-8,data/compilation/html/100724/f125cee4af5e0adbb44448f613cf95da576d087f.html,
+100724,Alabama State University,https://www.alasu.edu/_qa/Academic%20Standing%20Policy%202023.pdf,False,200,application/pdf,,skipped_non_html
+100724,Alabama State University,https://www.alasu.edu/SA_The%20Pilot.%20ASU%20Student%20Handbook_8.6.2019_0.pdf,False,200,application/pdf,,skipped_non_html
+100724,Alabama State University,https://www.alasu.edu/_qa/student-affairs-resources.php,True,200,text/html; charset=utf-8,data/compilation/html/100724/0147da2281792ae4922ad2871d2d13692b510f84.html,
