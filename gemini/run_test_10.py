@@ -12,7 +12,8 @@ from policy_search_gemini import search_policy_pages
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--unis",    type=str, default="test_10_unis.csv",
+    _here = Path(__file__).resolve().parent
+    ap.add_argument("--unis",    type=str, default=str(_here / "test_10_unis.csv"),
                     help="CSV with UNITID, INSTNM, WEBADDR (no IPEDS matching needed).")
     ap.add_argument("--outfile", type=str, default="policy_links_10_unis_gemini.csv")
     ap.add_argument("--num-results",        type=int,  default=100)

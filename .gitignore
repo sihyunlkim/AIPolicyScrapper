@@ -7,3 +7,7 @@ __pycache__/
 *.db
 .venv
 venv/
+data/
+exa/data/compilation
+gemini/data/compilation
+*.log

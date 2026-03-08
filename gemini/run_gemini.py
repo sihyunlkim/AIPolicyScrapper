@@ -498,7 +498,7 @@ def main():
     ap.add_argument("--restrict-domain", action="store_true", default=True)
     ap.add_argument("--no-restrict-domain", action="store_false", dest="restrict_domain")
 
-    ap.add_argument("--gemini-model", type=str, default="gemini-2.5-flash")
+    ap.add_argument("--gemini-model", type=str, default="gemini-3-flash-preview")
     ap.add_argument("--outdir", type=str, default="data/compilation_gemini")
     ap.add_argument("--skip-html", action="store_true")
     ap.add_argument("--max-urls-per-uni", type=int, default=60)
