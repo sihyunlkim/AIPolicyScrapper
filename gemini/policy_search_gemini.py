@@ -184,7 +184,6 @@ Return only a JSON object with this exact schema:
     {{
       "url": "https://...",
       "title": "short page title",
-      "why": "very short reason"
     }}
   ]
 }}
@@ -193,7 +192,6 @@ Requirements:
 - Focus on official university policy/guidance pages.
 - Good targets include academic integrity, generative AI guidance, ChatGPT guidance, student handbook, provost/teaching center guidance.
 - Return as many relevant results as you find.
-- No markdown.
 """.strip()
 
         resp = client.models.generate_content(

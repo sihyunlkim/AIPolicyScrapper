@@ -25,9 +25,9 @@ MODELS_TO_TEST = [
 ]
 
 TEST_CASES = [
-    {"university": "NYU",      "website": "nyu.edu"},
-    {"university": "MIT",      "website": "mit.edu"},
-    {"university": "Stanford", "website": "stanford.edu"},
+    {"university": "New York University",      "website": "nyu.edu"},
+    {"university": "Massachusetts Institute of Technology",      "website": "mit.edu"},
+    {"university": "Stanford University", "website": "stanford.edu"},
 ]
 
 # ── Run ───────────────────────────────────────────────────────────────────────
