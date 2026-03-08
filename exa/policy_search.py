@@ -13,10 +13,10 @@ exa = Exa(EXA_KEY)
 
 POLICY_QUERIES = [
     "{uni} generative AI policy",
-    "{uni} AI policy academic integrity",
-    "{uni} ChatGPT policy students",
-    "{uni} provost generative AI guidance",
-    "{uni} teaching and learning generative AI guidance",
+    "{uni} AI policy",
+    "{uni} AI guidance",
+    "{uni} AI academic integrity",
+    "{uni} academic integrity",
 ]
 
 def _extract_domain(website: str) -> str:
