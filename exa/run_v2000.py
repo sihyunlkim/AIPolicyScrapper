@@ -171,6 +171,8 @@ def main():
                     choices=["neural", "keyword", "deep"])
     ap.add_argument("--restrict-domain",  action="store_true", default=True)
     ap.add_argument("--no-restrict-domain", action="store_false", dest="restrict_domain")
+    ap.add_argument("--limit",                type=int, default=None,
+                    help="Only process the first N universities (for testing).")
 
     ap.add_argument("--outdir",               type=str,   default="data/compilation")
     ap.add_argument("--skip-html",            action="store_true")
