@@ -1,0 +1,567 @@
+Rank,Global Rank,Institution,Country,Sector,Best Country Quartile
+1,4,Harvard University *,USA,Universities,1
+2,7,Harvard Medical School,USA,Universities,1
+3,15,Stanford University *,USA,Universities,1
+4,23,Johns Hopkins University *,USA,Universities,1
+5,32,Massachusetts Institute of Technology *,USA,Universities,1
+6,36,"University of Michigan, Ann Arbor *",USA,Universities,1
+7,37,University of Washington *,USA,Universities,1
+8,42,University of Pennsylvania *,USA,Universities,1
+9,52,Cornell University *,USA,Universities,1
+10,53,Columbia University *,USA,Universities,1
+11,55,"University of California, Los Angeles *",USA,Universities,1
+12,66,Yale University *,USA,Universities,1
+13,75,"University of California, San Francisco *",USA,Universities,1
+14,78,"University of California, Berkeley *",USA,Universities,1
+15,86,"University of California, San Diego *",USA,Universities,1
+16,93,Duke University *,USA,Universities,1
+17,98,University of Chicago *,USA,Universities,1
+18,112,New York University *,USA,Universities,1
+19,113,"Northwestern University, Evanston *",USA,Universities,1
+20,115,"University of North Carolina, Chapel Hill *",USA,Universities,1
+21,127,"Ohio State University, Columbus *",USA,Universities,1
+22,131,"University of Minnesota, Twin Cities *",USA,Universities,1
+23,136,University of Florida *,USA,Universities,1
+24,138,"University of Wisconsin, Madison *",USA,Universities,1
+25,149,University of Southern California *,USA,Universities,1
+26,155,"University of California, Davis *",USA,Universities,1
+27,162,Harvard-MIT Division of Health Sciences and Tecnology,USA,Universities,1
+28,168,Pennsylvania State University *,USA,Universities,1
+29,171,Washington University in Saint Louis *,USA,Universities,1
+30,175,University of Pittsburgh *,USA,Universities,1
+31,183,University of Illinois at Urbana-Champaign *,USA,Universities,1
+32,191,Emory University *,USA,Universities,1
+33,197,Weill Medical College of Cornell University *,USA,Universities,1
+34,198,"University of Texas, Austin",USA,Universities,1
+35,214,Vanderbilt University *,USA,Universities,1
+36,226,Purdue University,USA,Universities,1
+37,231,Georgia Institute of Technology *,USA,Universities,1
+37,231,Boston University *,USA,Universities,1
+39,239,Carnegie Mellon University *,USA,Universities,1
+40,245,"Rutgers, The State University of New Jersey",USA,Universities,1
+41,251,Icahn School of Medicine at Mount Sinai,USA,Universities,1
+42,255,"Texas A&M University, College Station *",USA,Universities,1
+43,268,University of Utah *,USA,Universities,1
+44,283,"University of California, Irvine *",USA,Universities,1
+45,287,"University of Maryland, College Park *",USA,Universities,1
+46,301,Arizona State University *,USA,Universities,1
+47,349,University of Arizona *,USA,Universities,1
+48,352,Michigan State University,USA,Universities,1
+49,353,Princeton University,USA,Universities,1
+50,366,"University of Colorado, Denver *",USA,Universities,1
+51,380,California Institute of Technology *,USA,Universities,1
+52,381,University of Virginia *,USA,Universities,1
+53,385,The Rockefeller University *,USA,Universities,1
+54,408,North Carolina State University,USA,Universities,1
+55,415,University of Miami *,USA,Universities,1
+56,428,Baylor College of Medicine,USA,Universities,1
+57,442,University of Rochester *,USA,Universities,1
+58,454,"University of Colorado, Anschutz Medical Campus",USA,Universities,1
+58,454,"University of Colorado, Boulder *",USA,Universities,1
+60,458,Virginia Polytechnic Institute and State University *,USA,Universities,1
+61,477,"University of Illinois, Chicago *",USA,Universities,1
+62,485,Brown University,USA,Universities,1
+63,489,University of Texas Southwestern Medical Center,USA,Universities,1
+64,494,"University of Alabama, Birmingham *",USA,Universities,1
+65,505,University of Iowa *,USA,Universities,1
+66,506,"University of Maryland, Baltimore",USA,Universities,1
+67,511,"Northeastern University, USA",USA,Universities,1
+68,516,Case Western Reserve University,USA,Universities,1
+69,539,"University of California, Santa Barbara *",USA,Universities,1
+70,558,Oregon Health & Science University *,USA,Universities,1
+71,564,University of Cincinnati *,USA,Universities,1
+72,583,University of Pittsburgh Health Sciences,USA,Universities,1
+73,599,University of Georgia,USA,Universities,1
+74,606,"University of Connecticut, Storrs *",USA,Universities,1
+75,627,"University of Massachusetts, Amherst",USA,Universities,1
+76,647,University of South Florida System *,USA,Universities,1
+77,676,Iowa State University,USA,Universities,1
+78,679,Indiana University-Bloomington,USA,Universities,1
+79,688,Temple University *,USA,Universities,1
+80,697,University of South Florida,USA,Universities,1
+81,699,"State University of New York, Stony Brook *",USA,Universities,1
+82,718,"Colorado State University, Fort Collins *",USA,Universities,1
+83,735,George Washington University *,USA,Universities,1
+84,738,"University of Tennessee, Knoxville *",USA,Universities,1
+85,755,Rice University,USA,Universities,1
+86,756,University of Kentucky *,USA,Universities,1
+87,782,"State University of New York, Buffalo",USA,Universities,1
+88,788,University of Kansas *,USA,Universities,1
+89,797,City University of New York *,USA,Universities,1
+90,809,University of Houston,USA,Universities,1
+91,810,Tufts University,USA,Universities,1
+92,829,Virginia Commonwealth University *,USA,Universities,1
+93,836,"University of California, Riverside",USA,Universities,1
+94,837,Georgetown University *,USA,Universities,1
+95,844,University of Massachusetts Chan Medical School,USA,Universities,1
+96,846,University of Central Florida,USA,Universities,1
+97,851,"University of Nebraska, Lincoln",USA,Universities,1
+98,892,Oregon State University,USA,Universities,1
+99,894,University of Minnesota Health and Medicine,USA,Universities,1
+100,906,Indiana University-Purdue University Indianapolis,USA,Universities,1
+101,925,Dartmouth College *,USA,Universities,1
+102,927,Wayne State University,USA,Universities,1
+103,967,University of Oklahoma *,USA,Universities,1
+104,988,"University of Texas, Health Science Center at Houston",USA,Universities,1
+105,1000,University of Notre Dame,USA,Universities,1
+106,1059,"Washington State University, Pullman *",USA,Universities,1
+107,1071,Florida State University *,USA,Universities,1
+108,1073,University of South Carolina *,USA,Universities,1
+109,1080,"University of Missouri, Columbia *",USA,Universities,1
+110,1085,"University of Texas, Dallas",USA,Universities,1
+111,1099,"University of California, Santa Cruz",USA,Universities,1
+112,1105,Albert Einstein College of Medicine,USA,Universities,1
+113,1113,University of New Mexico *,USA,Universities,1
+114,1119,Wake Forest University *,USA,Universities,1
+115,1143,"University of Hawaii, Manoa *",USA,Universities,1
+116,1165,University of Delaware,USA,Universities,2
+117,1178,Drexel University,USA,Universities,1
+118,1206,University of Texas Medical Branch,USA,Universities,1
+119,1252,Florida International University,USA,Universities,1
+120,1286,George Mason University,USA,Universities,1
+121,1321,The Florida A&M University and The Florida State University College of Engineering,USA,Universities,1
+122,1346,Medical College of Wisconsin,USA,Universities,2
+123,1358,Medical University of South Carolina *,USA,Universities,2
+124,1361,"Louisiana State University, Baton Rouge",USA,Universities,1
+125,1365,University of Nebraska Medical Center,USA,Universities,2
+126,1394,Georgia State University,USA,Universities,1
+127,1402,Thomas Jefferson University *,USA,Universities,2
+128,1415,Tulane University,USA,Universities,1
+129,1438,West Virginia University *,USA,Universities,1
+130,1442,University of Texas Health Science Center at San Antonio,USA,Universities,2
+131,1474,Rensselaer Polytechnic Institute,USA,Universities,1
+132,1506,Rush University *,USA,Universities,2
+133,1509,CUNY Graduate School and University Center,USA,Universities,1
+134,1515,Stevens Institute of Technology,USA,Universities,1
+135,1518,Clemson University,USA,Universities,2
+136,1557,USF Health,USA,Universities,1
+137,1598,Texas A&M Health,USA,Universities,2
+138,1649,"University of Texas, San Antonio",USA,Universities,2
+139,1721,Kansas State University,USA,Universities,2
+140,1776,University of Louisville *,USA,Universities,2
+141,1778,"University of California, Merced",USA,Universities,2
+142,1785,Utah State University *,USA,Universities,2
+143,1794,University of Mississippi *,USA,Universities,2
+144,1817,Brigham Young University,USA,Universities,2
+144,1817,"City University of New York, City College",USA,Universities,2
+146,1820,New Jersey Institute of Technology,USA,Universities,1
+147,1836,Auburn University,USA,Universities,2
+148,1846,"University of Texas, Arlington",USA,Universities,2
+149,1848,Texas Tech University,USA,Universities,2
+150,1915,University of New Mexico Health Sciences Center,USA,Universities,2
+151,1916,University of Vermont,USA,Universities,2
+152,1929,San Diego State University,USA,Universities,2
+152,1929,"University of Arkansas, Fayetteville",USA,Universities,2
+154,1998,Virginia-Maryland Regional College of Veterinary Medicine,USA,Universities,2
+155,2013,Binghamton University,USA,Universities,1
+156,2018,University of Nevada-Reno,USA,Universities,2
+157,2033,University of Oregon,USA,Universities,2
+158,2049,Mississippi State University,USA,Universities,2
+159,2067,Rochester Institute of Technology *,USA,Universities,2
+160,2072,"Saint Louis University, Saint Louis *",USA,Universities,2
+161,2162,Graduate School of Public Health and Health Policy,USA,Universities,2
+162,2168,"University of Michigan, Dearborn",USA,Universities,1
+163,2173,Augusta University *,USA,Universities,2
+164,2176,University of Tennessee Health Science Center,USA,Universities,2
+165,2179,University of Akron,USA,Universities,1
+166,2183,University of Rhode Island,USA,Universities,2
+166,2183,Illinois Institute of Technology,USA,Universities,1
+168,2195,"Oklahoma State University, Stillwater *",USA,Universities,2
+169,2212,"Montana State University, Bozeman",USA,Universities,2
+170,2214,"City University of New York, Hunter College",USA,Universities,2
+171,2219,University of North Texas,USA,Universities,2
+172,2240,"University of Alabama, Tuscaloosa",USA,Universities,2
+173,2291,University of Oklahoma Health Sciences Center,USA,Universities,2
+174,2296,"State University of New York, Albany",USA,Universities,2
+175,2319,"University of Maryland, Baltimore County",USA,Universities,2
+176,2330,Donald and Barbara Zucker School of Medicine at Hofstra/Northwell,USA,Universities,2
+177,2334,Michigan Technological University,USA,Universities,2
+178,2413,Worcester Polytechnic Institute,USA,Universities,1
+179,2414,Hofstra University *,USA,Universities,2
+180,2424,University of South Florida-Saint Petersburg,USA,Universities,2
+181,2474,University of Arkansas for Medical Sciences,USA,Universities,2
+182,2478,Northern Arizona University,USA,Universities,2
+183,2528,"University of North Carolina, Charlotte",USA,Universities,2
+184,2545,University of Mississippi Medical Center,USA,Universities,2
+185,2550,Florida Atlantic University,USA,Universities,2
+186,2593,"University of Massachusetts, Lowell",USA,Universities,2
+187,2595,"University of Missouri, Kansas City",USA,Universities,2
+188,2613,Colorado School of Mines,USA,Universities,2
+189,2661,Uniformed Services University of the Health Sciences,USA,Universities,2
+190,2668,Missouri University of Science & Technology,USA,Universities,2
+191,2672,Loyola University Chicago *,USA,Universities,2
+192,2685,San Jose State University,USA,Universities,2
+193,2689,"Washington State University, Spokane Campus",USA,Universities,2
+194,2720,South Dakota State University,USA,Universities,2
+195,2766,Florida Agricultural & Mechanical University *,USA,Universities,2
+196,2781,Syracuse University,USA,Universities,2
+197,2790,Baylor University,USA,Universities,2
+198,2798,Brandeis University,USA,Universities,2
+199,2814,Kent State University,USA,Universities,2
+200,2816,Boston College,USA,Universities,2
+201,2827,Upstate Medical University *,USA,Universities,2
+202,2849,Kaiser Permanente Bernard J Tyson School of Medicine,USA,Universities,1
+203,2853,University of Nevada-Las Vegas,USA,Universities,2
+204,2871,University of Toledo *,USA,Universities,2
+205,2887,Chapman University,USA,Universities,2
+206,2904,"University of Illinois, College of Medicine at Peoria",USA,Universities,2
+207,2907,"State University of New York, New Paltz",USA,Universities,1
+208,2915,University of Idaho *,USA,Universities,2
+209,3051,Southern Methodist University,USA,Universities,2
+210,3076,Xavier University of Louisiana,USA,Universities,1
+211,3080,Lehman College,USA,Universities,2
+212,3084,Texas Tech University Health Sciences Center,USA,Universities,2
+213,3144,College of William and Mary,USA,Universities,2
+214,3168,"University of Texas, El Paso",USA,Universities,2
+215,3206,Howard University *,USA,Universities,2
+216,3207,University of North Dakota,USA,Universities,2
+217,3232,Marquette University,USA,Universities,2
+218,3302,Pennsylvania State University-Penn State Erie-Behrend College,USA,Universities,2
+219,3362,"City University of New York, College of Staten Island",USA,Universities,2
+220,3368,New York City College of Technology,USA,Universities,2
+220,3368,University of Wyoming,USA,Universities,2
+222,3373,Lehigh University,USA,Universities,2
+223,3436,Santa Clara University,USA,Universities,2
+224,3438,"Louisiana State University, Health Sciences Center *",USA,Universities,2
+225,3502,North Dakota State University,USA,Universities,2
+226,3516,Old Dominion University,USA,Universities,2
+227,3525,Colorado School of Public Health,USA,Universities,2
+228,3544,North Carolina A&T State University,USA,Universities,2
+229,3568,"City University of New York, Brooklyn College",USA,Universities,2
+230,3590,"University of Louisiana, Lafayette",USA,Universities,2
+231,3594,"California Polytechnic State University, San Luis Obispo",USA,Universities,2
+232,3601,Tennessee Technological University,USA,Universities,2
+233,3632,University of New Hampshire,USA,Universities,2
+234,3653,Portland State University,USA,Universities,2
+235,3663,"University of Montana, Missoula",USA,Universities,2
+235,3663,East Carolina University,USA,Universities,2
+237,3672,Loma Linda University *,USA,Universities,3
+238,3685,Ochsner Clinical School,USA,Universities,2
+239,3696,Embry-Riddle Aeronautical University *,USA,Universities,2
+240,3731,Prairie View A&M University,USA,Universities,2
+241,3741,Albany Medical College,USA,Universities,2
+242,3753,"University of Connecticut, Avery Point",USA,Universities,2
+243,3773,"University of Wisconsin, Milwaukee",USA,Universities,2
+244,3780,"University of Maine, Orono",USA,Universities,2
+245,3783,"University of Minnesota, Duluth",USA,Universities,2
+246,3787,Kennesaw State University,USA,Universities,2
+247,3790,Eastern Virginia Medical School,USA,Universities,2
+248,3844,The Catholic University of America,USA,Universities,3
+249,3852,"University of Hawaii, Hilo",USA,Universities,2
+250,3862,Ohio University,USA,Universities,2
+251,3894,"University of Massachusetts, Dartmouth",USA,Universities,2
+252,3938,Teachers College of Columbia University,USA,Universities,1
+253,3943,Saint John's University,USA,Universities,2
+254,3957,University of Dayton,USA,Universities,2
+255,3972,"University of Massachusetts, Boston",USA,Universities,2
+256,3985,"University of North Carolina, Greensboro",USA,Universities,2
+257,3998,SUNY Downstate Medical Center,USA,Universities,3
+258,4046,Northern Illinois University,USA,Universities,2
+259,4055,Fordham University,USA,Universities,2
+260,4067,"City University of New York, Queens College",USA,Universities,2
+261,4085,Marshall University,USA,Universities,2
+262,4122,New York Institute of Technology *,USA,Universities,2
+263,4125,Rowan University,USA,Universities,3
+264,4140,Western Michigan University,USA,Universities,2
+265,4155,New Mexico State University,USA,Universities,2
+266,4164,University of Denver,USA,Universities,2
+267,4190,Clarkson University,USA,Universities,2
+268,4194,"City University of New York, John Jay College of Criminal Justice",USA,Universities,2
+269,4218,"Southern Illinois University, Carbondale *",USA,Universities,3
+270,4244,"Washington State University, Vancouver Campus",USA,Universities,2
+271,4253,University of Northern Colorado *,USA,Universities,2
+272,4260,University of Tulsa,USA,Universities,2
+273,4301,Rosalind Franklin University of Medicine and Science,USA,Universities,2
+273,4301,Oakland University,USA,Universities,3
+275,4311,"California State University, Northridge",USA,Universities,2
+276,4324,"Baruch College, City University of New York",USA,Universities,2
+277,4328,University of New Haven,USA,Universities,2
+278,4349,"University of Alaska, Fairbanks",USA,Universities,2
+279,4358,"University of Connecticut, Greater Hartford",USA,Universities,2
+280,4400,University of South Alabama *,USA,Universities,3
+280,4400,Boise State University *,USA,Universities,2
+282,4421,University of Arkansas at Little Rock,USA,Universities,2
+283,4442,University of the Pacific,USA,Universities,2
+284,4472,New York Medical College,USA,Universities,2
+285,4509,Harvey Mudd College,USA,Universities,2
+286,4550,"California State University, Bakersfield",USA,Universities,3
+287,4563,Lamar University,USA,Universities,2
+288,4622,"University of Alabama, Huntsville",USA,Universities,3
+288,4622,University at Texas Rio Grande Valley,USA,Universities,3
+290,4629,University of South Dakota,USA,Universities,3
+291,4659,"Nova Southeastern University, Estados Unidos",USA,Universities,2
+291,4659,University of Southern Mississippi,USA,Universities,3
+293,4680,North Carolina Central University,USA,Universities,3
+294,4690,Jackson State University,USA,Universities,2
+295,4707,American University,USA,Universities,2
+296,4726,Arkansas State University,USA,Universities,2
+297,4740,Borough of Manhattan Community College,USA,Universities,2
+298,4753,Charles R. Drew University of Medicine & Science,USA,Universities,3
+299,4756,Wright State University,USA,Universities,3
+300,4764,Villanova University,USA,Universities,3
+301,4786,Cleveland State University,USA,Universities,3
+302,4792,"California State University, Los Angeles",USA,Universities,3
+303,4846,University of San Francisco,USA,Universities,2
+303,4846,Western New England University,USA,Universities,2
+305,4913,Manhattan College,USA,Universities,2
+306,4938,"Texas A&M University, Corpus Christi",USA,Universities,2
+307,4941,Hackensack Meridian School of Medicine,USA,Universities,2
+308,4959,"Oklahoma State University, Tulsa",USA,Universities,2
+309,4984,Fayetteville State University,USA,Universities,2
+309,4984,Miami University of Ohio,USA,Universities,2
+311,4998,Tennessee State University,USA,Universities,3
+312,5001,"University of Colorado, Colorado Springs",USA,Universities,2
+313,5044,Georgia Southern University,USA,Universities,3
+314,5066,University of Memphis,USA,Universities,3
+315,5070,Central Michigan University,USA,Universities,3
+316,5077,Texas A&M University-Commerce,USA,Universities,2
+316,5077,Wellesley College,USA,Universities,3
+318,5089,Northeast Ohio Medical University,USA,Universities,3
+319,5101,Chicago State University,USA,Universities,3
+320,5113,"Oklahoma State University, Center for Health Sciences",USA,Universities,2
+321,5129,Louisiana Tech University,USA,Universities,3
+322,5154,Williams College,USA,Universities,3
+323,5197,MCPHS University,USA,Universities,3
+324,5202,Texas Southern University,USA,Universities,2
+324,5202,Creighton University,USA,Universities,3
+326,5215,Lake Erie College,USA,Universities,3
+327,5221,Sonoma State University,USA,Universities,3
+328,5232,Midwestern University,USA,Universities,3
+329,5244,"University of Nebraska, Omaha",USA,Universities,3
+330,5279,University of Central Arkansas,USA,Universities,2
+331,5298,"California State University, Long Beach",USA,Universities,2
+332,5307,Tuskegee University,USA,Universities,2
+333,5316,"California State University, Fullerton",USA,Universities,2
+334,5320,"University of Alaska, Anchorage",USA,Universities,2
+335,5359,Morehouse School of Medicine,USA,Universities,3
+336,5369,South Dakota School of Mines and Technology,USA,Universities,2
+336,5369,Florida Polytechnic University,USA,Universities,2
+338,5392,Meharry Medical College,USA,Universities,3
+339,5435,Western University of Health Sciences,USA,Universities,3
+339,5435,Delaware State University,USA,Universities,3
+341,5451,"Texas State University, San Marcos",USA,Universities,3
+342,5474,Southern Illinois University School of Medicine,USA,Universities,3
+343,5506,Middle Tennessee State University,USA,Universities,3
+344,5535,San Francisco State University,USA,Universities,2
+345,5541,Seton Hall University,USA,Universities,3
+346,5590,Florida Institute of Technology,USA,Universities,3
+347,5593,Edward Via College of Osteopathic Medicine,USA,Universities,2
+348,5624,Duquesne University,USA,Universities,3
+349,5627,Wichita State University,USA,Universities,3
+350,5685,"California State University, Sacramento",USA,Universities,3
+351,5688,"State University of New York, College of Environmental Science and Forestry",USA,Universities,3
+352,5740,Webster University *,USA,Universities,3
+353,5753,Montclair State University,USA,Universities,3
+354,5799,University of New Orleans,USA,Universities,3
+355,5811,Alabama State University,USA,Universities,3
+356,5848,Swarthmore College,USA,Universities,3
+357,5855,"University of Michigan, Flint",USA,Universities,2
+358,5856,Mercer University,USA,Universities,3
+359,5877,Liberty University,USA,Universities,2
+360,5898,United States Naval Academy,USA,Universities,3
+361,5912,Haverford College in Pennsylvania,USA,Universities,3
+362,5926,University of North Florida,USA,Universities,3
+363,5931,Reed College,USA,Universities,3
+364,5936,"California State Polytechnic University, Pomona",USA,Universities,3
+364,5936,Pace University,USA,Universities,3
+366,5953,East Tennessee State University,USA,Universities,3
+366,5953,Bowling Green State University,USA,Universities,3
+368,5965,"University of Tennessee, Chattanooga",USA,Universities,3
+369,5967,Western Washington University,USA,Universities,3
+370,5975,Long Island University,USA,Universities,3
+371,6005,"University of North Carolina, Wilmington",USA,Universities,3
+372,6033,New Mexico Institute of Mining and Technology *,USA,Universities,3
+373,6051,Touro College,USA,Universities,3
+374,6096,Samford University,USA,Universities,2
+375,6117,"University of Illinois, Springfield",USA,Universities,3
+376,6121,Carleton College,USA,Universities,3
+377,6182,University of West Florida,USA,Universities,3
+378,6226,"University of Missouri, Saint Louis",USA,Universities,3
+379,6255,Morgan State University,USA,Universities,3
+380,6271,Clark Atlanta University,USA,Universities,3
+381,6283,DePaul University,USA,Universities,2
+382,6288,Bucknell University,USA,Universities,3
+383,6293,Occidental College,USA,Universities,3
+383,6293,Youngstown State University,USA,Universities,3
+385,6310,Trinity University,USA,Universities,3
+386,6333,Christopher Newport University,USA,Universities,3
+387,6338,Barnard College,USA,Universities,3
+388,6353,University of the Incarnate Word,USA,Universities,3
+389,6366,Appalachian State University,USA,Universities,2
+390,6418,Pepperdine University,USA,Universities,2
+391,6452,"University of New England, United States",USA,Universities,3
+392,6473,Pomona College,USA,Universities,3
+392,6473,Ball State University,USA,Universities,3
+394,6493,"State University of New York, College at Oswego",USA,Universities,3
+395,6501,"Wesleyan University, Middletown",USA,Universities,3
+396,6534,Utah Valley University,USA,Universities,3
+397,6560,Naval Postgraduate School,USA,Universities,3
+398,6563,"Southern University, Baton Rouge",USA,Universities,3
+399,6576,Monmouth University,USA,Universities,3
+400,6594,"University of Wisconsin, Stevens Point",USA,Universities,3
+401,6603,Texas Christian University,USA,Universities,3
+402,6635,Union College,USA,Universities,3
+403,6643,AT Still University,USA,Universities,3
+404,6645,University of San Diego,USA,Universities,3
+405,6650,Belmont University,USA,Universities,3
+406,6660,"California State University, San Marcos",USA,Universities,3
+407,6669,Oberlin College,USA,Universities,4
+408,6673,Illinois State University,USA,Universities,3
+409,6684,"University of Wisconsin, Whitewater",USA,Universities,3
+410,6708,James Madison University,USA,Universities,2
+411,6714,United States Military Academy at West Point,USA,Universities,2
+412,6722,Lafayette College,USA,Universities,3
+413,6745,"California State University, Dominguez Hills",USA,Universities,3
+414,6748,Davidson College,USA,Universities,3
+415,6758,Smith College,USA,Universities,3
+416,6759,Valparaiso University,USA,Universities,3
+417,6785,Bard College,USA,Universities,3
+418,6788,Towson University,USA,Universities,3
+419,6812,Vassar College,USA,Universities,3
+420,6820,Yeshiva University,USA,Universities,3
+421,6851,Geisinger Commonwealth School of Medicine,USA,Universities,3
+422,6854,Loyola Marymount University,USA,Universities,3
+423,6865,Middlebury College,USA,Universities,3
+424,6870,Claremont McKenna College,USA,Universities,4
+425,6890,Idaho State University *,USA,Universities,3
+426,6900,"Texas A&M University, Kingsville",USA,Universities,3
+427,6910,"Louisiana State University, Shreveport",USA,Universities,3
+428,6913,Providence College,USA,Universities,3
+429,6935,West Texas A&M University,USA,Universities,3
+430,6947,Rocky Vista University,USA,Universities,3
+431,6992,Walden University,USA,Universities,2
+432,7000,Xavier University,USA,Universities,2
+433,7020,University of Richmond,USA,Universities,3
+433,7020,Mount Holyoke College,USA,Universities,4
+435,7028,Grand Valley State University,USA,Universities,3
+435,7028,Campbell University,USA,Universities,4
+437,7038,Franklin & Marshall College,USA,Universities,3
+438,7044,"California State University, East Bay",USA,Universities,3
+439,7065,Tarleton State University,USA,Universities,3
+440,7086,The College of New Jersey,USA,Universities,3
+441,7093,Indiana University - Purdue University at Fort Wayne,USA,Universities,3
+442,7119,Purdue University Northwest,USA,Universities,4
+443,7125,"California State University, San Bernardino",USA,Universities,3
+444,7136,University of Southern Maine,USA,Universities,3
+445,7160,Florida Gulf Coast University,USA,Universities,3
+446,7164,Bates College,USA,Universities,4
+446,7164,Macalester College,USA,Universities,3
+448,7179,"California State University, Monterey Bay",USA,Universities,3
+449,7206,High Point University,USA,Universities,3
+450,7224,"Minnesota State University, Mankato",USA,Universities,3
+451,7241,"Trinity College, Hartford",USA,Universities,3
+452,7249,Hope College,USA,Universities,3
+453,7259,Eastern Michigan University,USA,Universities,3
+454,7262,Clark University,USA,Universities,3
+455,7312,Bentley University,USA,Universities,3
+456,7343,University of North Georgia,USA,Universities,3
+457,7357,Quinnipiac University,USA,Universities,3
+458,7366,William Paterson University,USA,Universities,4
+459,7378,Bowdoin College,USA,Universities,3
+460,7391,Kean University,USA,Universities,3
+461,7400,Sam Houston State University,USA,Universities,3
+462,7422,Missouri State University,USA,Universities,3
+463,7442,Bryn Mawr College,USA,Universities,4
+464,7455,"California State University, Chico",USA,Universities,3
+464,7455,Colby College,USA,Universities,3
+466,7458,Murray State University,USA,Universities,3
+467,7462,University of St. Thomas,USA,Universities,3
+468,7477,Eastern Illinois University,USA,Universities,3
+469,7493,The College of Wooster,USA,Universities,3
+470,7541,Elon University,USA,Universities,2
+471,7591,Furman University,USA,Universities,3
+471,7591,Gettysburg College,USA,Universities,4
+473,7597,Amherst College,USA,Universities,3
+474,7608,Colgate University,USA,Universities,4
+475,7616,The New School,USA,Universities,3
+476,7621,Kenyon College,USA,Universities,3
+476,7621,Washington and Lee University,USA,Universities,4
+478,7684,Pittsburg State University,USA,Universities,3
+479,7690,"Touro University, California",USA,Universities,3
+480,7710,"University of Texas, Tyler",USA,Universities,4
+481,7720,Western Kentucky University,USA,Universities,3
+482,7729,"University of Wisconsin, Eau Claire",USA,Universities,4
+483,7767,University of Northern Iowa,USA,Universities,3
+483,7767,Western Illinois University,USA,Universities,4
+485,7794,Suffolk University *,USA,Universities,3
+486,7817,Philadelphia College of Osteopathic Medicine,USA,Universities,4
+487,7819,Southern Connecticut State University,USA,Universities,4
+488,7827,Widener University,USA,Universities,4
+489,7840,Texas A&M International University,USA,Universities,3
+490,7848,Seattle Pacific University,USA,Universities,3
+491,7865,Texas Woman's University,USA,Universities,3
+492,7883,"California State University, Fresno",USA,Universities,3
+493,7908,"University of Wisconsin, Green Bay",USA,Universities,3
+494,7910,Hamilton College,USA,Universities,3
+495,7922,University of Detroit Mercy,USA,Universities,3
+496,7944,Indiana State University,USA,Universities,3
+497,7987,Claremont Graduate University,USA,Universities,4
+498,8004,Lawrence Technological University,USA,Universities,3
+499,8019,College of Charleston,USA,Universities,4
+500,8022,Ithaca College,USA,Universities,4
+501,8053,Roseman University of Health Sciences,USA,Universities,3
+502,8078,Siena College,USA,Universities,4
+502,8078,University of Central Oklahoma,USA,Universities,4
+504,8121,University of the District of Columbia,USA,Universities,4
+505,8123,"State University of New York, College at Cortland",USA,Universities,4
+506,8129,Sacred Heart University,USA,Universities,3
+507,8130,"California State University, Stanislaus",USA,Universities,4
+507,8130,Fairfield University,USA,Universities,3
+509,8183,"State University of New York, Buffalo State College",USA,Universities,4
+510,8216,Bradley University,USA,Universities,4
+511,8221,"University of Houston, Clear Lake",USA,Universities,3
+512,8227,Palo Alto University,USA,Universities,4
+513,8248,Southern Illinois University Edwardsville,USA,Universities,3
+514,8250,Skidmore College,USA,Universities,4
+515,8266,University of Hartford,USA,Universities,4
+516,8275,University of Indianapolis,USA,Universities,4
+517,8279,Drake University,USA,Universities,4
+517,8279,Central Connecticut State University,USA,Universities,4
+519,8290,Stephen F Austin State University,USA,Universities,3
+520,8295,Stetson University,USA,Universities,4
+521,8310,Coastal Carolina University,USA,Universities,3
+522,8326,University of Central Missouri,USA,Universities,3
+523,8350,Central Washington University,USA,Universities,4
+524,8387,Metropolitan State University,USA,Universities,4
+525,8393,Seattle University,USA,Universities,3
+526,8399,Austin Peay State University,USA,Universities,3
+527,8418,University of Tampa,USA,Universities,3
+528,8427,Butler University,USA,Universities,4
+528,8427,Fairleigh Dickinson University,USA,Universities,3
+530,8444,Loyola University Maryland,USA,Universities,3
+531,8467,Indiana University of Pennsylvania,USA,Universities,3
+532,8485,West Chester University of Pennsylvania,USA,Universities,3
+533,8496,University of Wisconsin - LaCrosse,USA,Universities,3
+534,8520,University of Portland,USA,Universities,4
+535,8538,Virginia Military Institute,USA,Universities,4
+536,8540,Adelphi University,USA,Universities,3
+537,8545,Western Carolina University,USA,Universities,3
+538,8576,"University of Nebraska, Kearney",USA,Universities,4
+538,8576,University of Houston - Downtown,USA,Universities,4
+540,8592,Northeastern Illinois University,USA,Universities,4
+541,8637,Babson College,USA,Universities,3
+542,8679,Saint Joseph's University,USA,Universities,3
+543,8705,Colorado College,USA,Universities,4
+543,8705,Weber State University,USA,Universities,3
+545,8712,Northern Kentucky University,USA,Universities,4
+546,8735,Denison University,USA,Universities,4
+547,8766,College of the Holy Cross,USA,Universities,4
+548,8772,Rhodes College,USA,Universities,4
+549,8784,Gonzaga University,USA,Universities,3
+550,8800,Grinnell College,USA,Universities,4
+551,8825,Troy University,USA,Universities,4
+552,8839,Eastern Kentucky University,USA,Universities,3
+553,8844,Dickinson College,USA,Universities,4
+554,8852,State University of West Georgia,USA,Universities,4
+554,8852,Simmons University,USA,Universities,4
+556,8874,Rollins College,USA,Universities,4
+557,8884,Salisbury University,USA,Universities,4
+558,8917,"State University of New York, College at Brockport",USA,Universities,4
+559,8930,Radford University,USA,Universities,4
+560,8954,"University of Wisconsin, Oshkosh",USA,Universities,4
+561,9019,Connecticut College,USA,Universities,4
+562,9051,University of Maryland Eastern Shore,USA,Universities,4
+563,9064,University of Scranton,USA,Universities,4
+564,9095,Stockton University,USA,Universities,4
+565,9107,Merrimack College,USA,Universities,4
+566,9326,Marymount University,USA,Universities,4
