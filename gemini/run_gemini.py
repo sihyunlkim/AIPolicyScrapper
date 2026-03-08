@@ -516,14 +516,18 @@ def main():
     scimago_path = Path(args.scimago)
     outdir = Path(args.outdir)
 
-    if not ipeds_path.exists():
-        raise FileNotFoundError(f"IPEDS CSV not found: {ipeds_path.resolve()}")
-    if not scimago_path.exists():
-        raise FileNotFoundError(f"SciMAGO CSV not found: {scimago_path.resolve()}")
-
     sample_csv = outdir / "sample" / "selected_500.csv"
     reports_dir = outdir / "reports"
     manual_path = Path(args.manual_overrides) if args.manual_overrides.strip() else None
+
+    # Only require IPEDS/SciMAGO if we actually need to rebuild the sample
+    need_rebuild_sample = args.force_rebuild_sample or (not sample_csv.exists())
+
+    if need_rebuild_sample:
+        if not ipeds_path.exists():
+            raise FileNotFoundError(f"IPEDS CSV not found: {ipeds_path.resolve()}")
+        if not scimago_path.exists():
+            raise FileNotFoundError(f"SciMAGO CSV not found: {scimago_path.resolve()}")
 
     if sample_csv.exists() and not args.force_rebuild_sample:
         print(f"[RESUME] Using existing sample: {sample_csv}")

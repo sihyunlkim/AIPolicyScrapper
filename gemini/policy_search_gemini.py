@@ -14,6 +14,8 @@ from google.genai import types
 load_dotenv(dotenv_path=Path(__file__).resolve().parents[1] / ".env")
 
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
+print("Loaded key:", os.getenv("GEMINI_API_KEY"))
+
 assert GEMINI_KEY, "GEMINI_API_KEY not found"
 
 client = genai.Client(api_key=GEMINI_KEY)
@@ -73,6 +75,47 @@ def _extract_urls_from_obj(obj: Any) -> list[str]:
     walk(obj)
     return _dedupe_keep_order(urls)
 
+
+def should_drop_url(url: str) -> bool:
+    """Drop empty URLs and obvious Google/Grounding intermediate links."""
+    if not url or not isinstance(url, str):
+        return True
+
+    u = url.strip()
+    if not u:
+        return True
+
+    try:
+        p = urlparse(u)
+        host = p.netloc.lower().replace("www.", "")
+        path = p.path.lower()
+    except Exception:
+        return True
+
+    # Gemini grounding redirect
+    if host == "vertexaisearch.cloud.google.com":
+        return True
+
+    # Google redirect / search / cache
+    if host in {
+        "google.com",
+        "www.google.com",
+        "webcache.googleusercontent.com",
+        "translate.google.com",
+    }:
+        return True
+
+    if "grounding-api-redirect" in path:
+        return True
+
+    return False
+
+def _is_on_domain(url: str, domain: str) -> bool:
+    try:
+        host = urlparse(url).netloc.lower().replace("www.", "")
+        return host == domain or host.endswith("." + domain)
+    except Exception:
+        return False
 
 def _extract_urls_from_response(resp: Any) -> list[str]:
     urls: list[str] = []
@@ -149,7 +192,7 @@ Return only a JSON object with this exact schema:
 Requirements:
 - Focus on official university policy/guidance pages.
 - Good targets include academic integrity, generative AI guidance, ChatGPT guidance, student handbook, provost/teaching center guidance.
-- Return at most {min(num_results, 20)} results.
+- Return as many relevant results as you find.
 - No markdown.
 """.strip()
 
@@ -178,12 +221,16 @@ Requirements:
 
         # Fallback: scrape URLs from response metadata/text
         if not parsed_results:
-            urls = _extract_urls_from_response(resp)[: min(num_results, 20)]
+            urls = _extract_urls_from_response(resp)
             parsed_results = [{"url": u, "title": "", "why": ""} for u in urls]
 
         for item in parsed_results:
             url = str(item.get("url", "")).strip()
             if not url:
+                continue
+            if should_drop_url(url):
+                continue
+            if restrict_domain and domain and not _is_on_domain(url, domain):
                 continue
 
             title = str(item.get("title", "")).strip()
