@@ -1,159 +1,134 @@
 university,landing_page,domain,query_used,title,policy_url,method,domain_restricted,_source
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI policy,,https://www.uml.edu/celt/exploring-ai/academic-integrity-and-detection.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI policy,,https://www.uml.edu/celt/exploring-ai/resources-for-researchers.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI policy,,https://www.uml.edu/myuml/news/2024/ai-academic-integrity-policy.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI policy,,https://www.uml.edu/celt/exploring-ai/ai-guidance-ori.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI policy,,https://www.uml.edu/it/software/generative-ai.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI policy,,https://www.uml.edu/catalog/undergraduate/policies/academic-integrity.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI policy,,https://www.uml.edu/celt/exploring-ai/ai-task-force.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI guidance,,https://www.uml.edu/celt/exploring-ai/ai-guidance-office-of-research-integrity.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI guidance,,https://www.uml.edu/celt/exploring-ai/about-this-project.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI guidance,,https://www.uml.edu/docs/policy-on-graduate-student-use-of-generative-artificial-intelligence-technology_tcm18-370000.pdf,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI guidance,,https://www.uml.edu/celt/exploring-ai/ai-tools.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI guidance,,https://www.uml.edu/celt/exploring-ai/ai-in-higher-education.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI guidance,,https://www.uml.edu/academics/provost/faculty-success/resources.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI guidance,,https://www.uml.edu/uml-magazine/spring-2024/ai-for-students.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI academic integrity,,https://www.uml.edu/academics/sound-learning/celt/exploring-ai/academic-integrity-and-detection.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI academic integrity,,https://www.uml.edu/myuml/news/2024/language-regarding-artificial-intelligence-added-to-academic-integrity-policy.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI academic integrity,,https://www.uml.edu/academics/sound-learning/celt/exploring-ai/ai-guidance-office-of-research-integrity.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI academic integrity,,https://www.uml.edu/academics/sound-learning/celt/exploring-ai/resources-for-researchers.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI academic integrity,,https://www.uml.edu/academics/sound-learning/celt/exploring-ai/ai-in-syllabi.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI academic integrity,,https://www.uml.edu/library/ask/faq/ai-lesson-plans.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI academic integrity,,https://www.uml.edu/academics/sound-learning/celt/exploring-ai/,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI academic integrity,,https://www.uml.edu/academics/sound-learning/celt/exploring-ai/about-this-project.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell academic integrity,,https://www.uml.edu/policies/undergraduate/academic-integrity.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell academic integrity,,https://www.uml.edu/academics/provost/faculty-success/career-navigation/celt/exploring-ai/researcher-resources.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell academic integrity,,https://www.uml.edu/academics/provost/faculty-success/career-navigation/celt/exploring-ai/academic-integrity-and-detection.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell academic integrity,,https://www.uml.edu/academics/provost/faculty-success/career-navigation/celt/exploring-ai/ai-in-syllabi.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell academic integrity,,https://www.uml.edu/academics/provost/faculty-success/career-navigation/celt/exploring-ai/ai-guidance-ori.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell academic integrity,,https://www.uml.edu/student-affairs/sr/student-conduct-code.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell academic integrity,,https://www.uml.edu/catalog/graduate/policies/university-disciplinary-procedures.aspx,gemini,True,gemini
-University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell academic integrity,,https://www.uml.edu/academics/provost/faculty-success/resources-at-a-glance.aspx,gemini,True,gemini
-Highline College,https://www.highline.edu/,highline.edu,Highline College AI policy,,https://www.highline.edu/student-services/community-standards/academic-integrity/,gemini,True,gemini
+University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell generative AI policy,,https://www.uml.edu/myuml/news/2024/language-regarding-artificial-intelligence-added-to-academic-integrity-policy.aspx,gemini,True,gemini
+University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell generative AI policy,,https://www.uml.edu/it/software/generative-ai.aspx,gemini,True,gemini
+University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell generative AI policy,,https://www.uml.edu/celt/exploring-ai/academic-integrity-and-detection.aspx,gemini,True,gemini
+University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell generative AI policy,,https://www.uml.edu/catalog/undergraduate/policies/academic-integrity.aspx,gemini,True,gemini
+University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell generative AI policy,,https://www.uml.edu/docs/policy-on-graduate-student-use-of-generative-ai-technology_tcm18-380000.pdf,gemini,True,gemini
+University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell generative AI policy,,https://www.uml.edu/celt/exploring-ai/what-is-generative-ai.aspx,gemini,True,gemini
+University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell generative AI policy,,https://www.uml.edu/celt/exploring-ai/researcher-resources.aspx,gemini,True,gemini
+University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell generative AI policy,,https://www.uml.edu/celt/exploring-ai/ai-guidance-ori.aspx,gemini,True,gemini
+University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI academic integrity,,https://www.uml.edu/policies/undergraduate-programs-policies/academic-integrity.aspx,gemini,True,gemini
+University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI academic integrity,,https://www.uml.edu/catalog/graduate/policies-procedures/academic-integrity.aspx,gemini,True,gemini
+University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI academic integrity,,https://www.uml.edu/celt/exploring-ai/ai-guidance-office-of-research-integrity.aspx,gemini,True,gemini
+University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell AI academic integrity,,https://www.uml.edu/celt/exploring-ai/introducing-artificial-intelligence-in-syllabi.aspx,gemini,True,gemini
+University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell academic integrity,,https://www.uml.edu/undergraduate/policies/academic-integrity.aspx,gemini,True,gemini
+University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell academic integrity,,https://www.uml.edu/student-affairs/dean-of-students/academic-policies-procedures/academic-integrity.aspx,gemini,True,gemini
+University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell academic integrity,,https://www.uml.edu/celt/exploring-ai/resources-for-researchers.aspx,gemini,True,gemini
+University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell academic integrity,,https://www.uml.edu/docs/policy-on-graduate-student-use-of-generative-artificial-intelligence-technology_tcm18-370000.pdf,gemini,True,gemini
+University of Massachusetts Lowell,https://www.uml.edu/,uml.edu,University of Massachusetts Lowell academic integrity,,https://www.uml.edu/student-affairs/dean-of-students/student-rights-responsibilities/student-conduct-code.aspx,gemini,True,gemini
+Highline College,https://www.highline.edu/,highline.edu,Highline College AI policy,,https://www.highline.edu/student-services/student-conduct/academic-integrity/,gemini,True,gemini
 Highline College,https://www.highline.edu/,highline.edu,Highline College AI policy,,https://www.highline.edu/learning-teaching-center/generative-ai/,gemini,True,gemini
-Highline College,https://www.highline.edu/,highline.edu,Highline College AI policy,,https://www.highline.edu/information-technology-services/ai-microsoft-365-copilot-and-google-gemini/,gemini,True,gemini
-Highline College,https://www.highline.edu/,highline.edu,Highline College AI policy,,https://www.highline.edu/student-services/community-standards/instructor-resources/,gemini,True,gemini
+Highline College,https://www.highline.edu/,highline.edu,Highline College AI policy,,https://its.highline.edu/ai-microsoft-365-copilot-and-google-gemini/,gemini,True,gemini
+Highline College,https://www.highline.edu/,highline.edu,Highline College AI policy,,https://www.highline.edu/student-services/student-conduct/instructor-resources/,gemini,True,gemini
+Highline College,https://www.highline.edu/,highline.edu,Highline College AI policy,,https://www.highline.edu/learning-teaching-center/academic-integrity/,gemini,True,gemini
 Highline College,https://www.highline.edu/,highline.edu,Highline College AI policy,,https://www.highline.edu/instructional-policies-and-procedures/,gemini,True,gemini
-Highline College,https://www.highline.edu/,highline.edu,Highline College AI guidance,,https://it.highline.edu/ai-microsoft-365-copilot-and-google-gemini/,gemini,True,gemini
-Highline College,https://www.highline.edu/,highline.edu,Highline College AI guidance,,https://ltc.highline.edu/academic-integrity/,gemini,True,gemini
-Highline College,https://www.highline.edu/,highline.edu,Highline College AI guidance,,https://ltc.highline.edu/generative-ai/,gemini,True,gemini
-Highline College,https://www.highline.edu/,highline.edu,Highline College AI guidance,,https://it.highline.edu/microsoft-365-copilot/,gemini,True,gemini
-Highline College,https://www.highline.edu/,highline.edu,Highline College AI guidance,,https://www.highline.edu/student-services/community-standards/,gemini,True,gemini
-Highline College,https://www.highline.edu/,highline.edu,Highline College AI academic integrity,,https://www.highline.edu/learning-teaching-center/academic-integrity/,gemini,True,gemini
-Highline College,https://www.highline.edu/,highline.edu,Highline College AI academic integrity,,https://www.highline.edu/student-services/student-conduct/academic-integrity/,gemini,True,gemini
+Highline College,https://www.highline.edu/,highline.edu,Highline College AI guidance,,https://www.highline.edu/student-services/community-standards-student-conduct/instructor-resources/,gemini,True,gemini
+Highline College,https://www.highline.edu/,highline.edu,Highline College AI guidance,,https://www.highline.edu/student-services/community-standards-student-conduct/academic-integrity/,gemini,True,gemini
+Highline College,https://www.highline.edu/,highline.edu,Highline College AI guidance,,https://www.highline.edu/information-technology-services/ai-microsoft-365-copilot-and-google-gemini/,gemini,True,gemini
+Highline College,https://www.highline.edu/,highline.edu,Highline College AI guidance,,https://www.highline.edu/information-technology-services/ai-microsoft-365-copilot-and-google-gemini/microsoft-356-copilot/,gemini,True,gemini
+Highline College,https://www.highline.edu/,highline.edu,Highline College AI academic integrity,,https://www.highline.edu/academics/learning-teaching-center/academic-integrity/,gemini,True,gemini
 Highline College,https://www.highline.edu/,highline.edu,Highline College AI academic integrity,,https://www.highline.edu/student-services/student-conduct/academic-integrity/instructor-resources/,gemini,True,gemini
+Highline College,https://www.highline.edu/,highline.edu,Highline College AI academic integrity,,https://www.highline.edu/academics/learning-teaching-center/generative-ai/,gemini,True,gemini
 Highline College,https://www.highline.edu/,highline.edu,Highline College AI academic integrity,,https://www.highline.edu/student-services/student-conduct/student-conduct-code/,gemini,True,gemini
-Highline College,https://www.highline.edu/,highline.edu,Highline College academic integrity,,https://www.highline.edu/student-services/community-standards-student-conduct/academic-integrity/,gemini,True,gemini
-Highline College,https://www.highline.edu/,highline.edu,Highline College academic integrity,,https://www.highline.edu/student-services/community-standards-student-conduct/academic-integrity/academic-integrity-process-overview/,gemini,True,gemini
-Highline College,https://www.highline.edu/,highline.edu,Highline College academic integrity,,https://its.highline.edu/ai-microsoft-365-copilot-and-google-gemini/,gemini,True,gemini
-Highline College,https://www.highline.edu/,highline.edu,Highline College academic integrity,,https://www.highline.edu/student-services/community-standards-student-conduct/instructor-resources/,gemini,True,gemini
-Highline College,https://www.highline.edu/,highline.edu,Highline College academic integrity,,https://www.highline.edu/student-services/community-standards-student-conduct/student-conduct-violations/,gemini,True,gemini
-University of Pikeville,https://www.upike.edu/,upike.edu,University of Pikeville academic integrity,,https://www.upike.edu/academic-integrity/,gemini,True,gemini
-University of Pikeville,https://www.upike.edu/,upike.edu,University of Pikeville academic integrity,,https://www.upike.edu/student-handbook/,gemini,True,gemini
-University of Pikeville,https://www.upike.edu/,upike.edu,University of Pikeville academic integrity,,https://www.upike.edu/wp-content/uploads/2024/08/student-handbook-2024-2025-introduction.pdf,gemini,True,gemini
-University of Pikeville,https://www.upike.edu/,upike.edu,University of Pikeville academic integrity,,https://www.upike.edu/wp-content/uploads/2021/08/2021-2022-student-handbook-student-conduct-process.pdf,gemini,True,gemini
-University of Pikeville,https://www.upike.edu/,upike.edu,University of Pikeville academic integrity,,https://www.upike.edu/academics/academic-catalog/graduate-information/academic-policies-for-graduate-programs/,gemini,True,gemini
-University of Pikeville,https://www.upike.edu/,upike.edu,University of Pikeville academic integrity,,https://www.upike.edu/academics/academic-catalog/undergraduate-information/undergraduate-academic-policies/,gemini,True,gemini
-University of Pikeville,https://www.upike.edu/,upike.edu,University of Pikeville academic integrity,,https://www.upike.edu/wp-content/uploads/2025/05/kyco-student-handbook-2025-2026.pdf,gemini,True,gemini
-CIAT,https://www.ciat.edu/,ciat.edu,CIAT AI policy,,https://www.ciat.edu/code-of-conduct,gemini,True,gemini
-CIAT,https://www.ciat.edu/,ciat.edu,CIAT AI policy,,https://www.ciat.edu/blog/the-use-of-artificial-intelligence-in-virtual-environments,gemini,True,gemini
-CIAT,https://www.ciat.edu/,ciat.edu,CIAT AI policy,,https://www.ciat.edu/wp-content/uploads/2025/01/ciat-catalog-2025-2026.pdf,gemini,True,gemini
-CIAT,https://www.ciat.edu/,ciat.edu,CIAT AI academic integrity,,https://www.ciat.edu/student-resources/,gemini,True,gemini
-CIAT,https://www.ciat.edu/,ciat.edu,CIAT academic integrity,,https://www.ciat.edu/satisfactory-academic-progress/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI policy,,https://biggio.auburn.edu/artificial-intelligence-programs/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI policy,,https://biggio.auburn.edu/artificial-intelligence-programs/syllabus-language-for-generative-artificial-intelligence/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI policy,,https://biggio.auburn.edu/artificial-intelligence-programs/advisory-guidance-on-use-of-generative-ai-tools/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI policy,,https://biggio.auburn.edu/teaching-with-ai-auburn-canvas-course/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI policy,,https://biggio.auburn.edu/integrating-ai-for-transformative-learning-in-k-12-schools/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI policy,,https://biggio.auburn.edu/ai-at-au-education-committee/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI policy,,https://biggio.auburn.edu/au-libraries-ai-research-tools/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI guidance,,https://www.auburn.edu/academic/provost/biggio/programs/ai-programs.php,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI guidance,,https://www.auburn.edu/academic/provost/biggio/programs/ai-programs/syllabus-language-for-generative-artificial-intelligence.php,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI guidance,,https://www.auburn.edu/academic/provost/biggio/programs/ai-programs/advisory-guidance-on-use-of-generative-ai-tools.php,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI guidance,,https://www.auburn.edu/academic/provost/biggio/programs/ai-programs/teaching-with-ai-auburn-canvas-course.php,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI guidance,,https://www.auburn.edu/academic/provost/biggio/programs/ai-programs/integrating-ai-for-transformative-learning-in-k-12-schools.php,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI academic integrity,,https://www.auburn.edu/academic/provost/academic-integrity/students/ai-guidance/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI academic integrity,,https://www.auburn.edu/academic/provost/resources/optional-guidelines-ai.php,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI academic integrity,,https://www.auburn.edu/administration/oacp/dicp/aiguidance.php,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI academic integrity,,https://www.auburn.edu/academic/provost/academic-integrity/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI academic integrity,,https://biggio.auburn.edu/programs/artificial-intelligence/ai-guidance/syllabus-language-for-generative-artificial-intelligence/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI academic integrity,,https://www.auburn.edu/academic/provost/academic-integrity/faculty/ai-guidance/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI academic integrity,,https://biggio.auburn.edu/programs/artificial-intelligence/ai-guidance/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI academic integrity,,https://eng.auburn.edu/programs/chemical/academics/undergraduate/honesty-ethics.html,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI academic integrity,,https://www.auburn.edu/academic/provost/academic-integrity/policy/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI academic integrity,,https://www.auburn.edu/academic/provost/academic-integrity/violations/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI academic integrity,,https://www.auburn.edu/administration/oacp/guidance-for-responsible-use-of-artificial-intelligence.php,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://www.auburn.edu/academic/provost/academic-integrity/resources/students/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://www.auburn.edu/academic/provost/academic-integrity/rights-and-responsibilities/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://www.auburn.edu/academic/provost/academic-integrity/resources/faqs/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://www.auburn.edu/academic/provost/academic-integrity/reporting/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://www.auburn.edu/academic/provost/academic-integrity/resources/ai-guidance-for-students/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://www.auburn.edu/academic/provost/academic-integrity/who-we-are/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://www.auburn.edu/academic/provost/academic-integrity/faculty/syllabus-support/,gemini,True,gemini
-Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://www.auburn.edu/eng/chem/academics/undergraduate/academic-honesty.html,gemini,True,gemini
-Texas State University,https://www.txst.edu/,txst.edu,Texas State University generative AI policy,,https://www.its.txst.edu/security/guidelines/ai-tools.html,gemini,True,gemini
-Texas State University,https://www.txst.edu/,txst.edu,Texas State University generative AI policy,,https://www.txst.edu/honorcode/faculty-resources/faculty-ai-guidelines.html,gemini,True,gemini
-Texas State University,https://www.txst.edu/,txst.edu,Texas State University generative AI policy,,https://www.txst.edu/honorcode/student-resources/student-ai-guidelines.html,gemini,True,gemini
-Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI policy,,https://www.txst.edu/it/security/guidelines/ai-tools.html,gemini,True,gemini
-Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI policy,,https://www.txst.edu/honorcode/academic-integrity/ai-guidelines.html,gemini,True,gemini
-Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI policy,,https://www.txst.edu/it/ai-hub/best-practices.html,gemini,True,gemini
-Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI policy,,https://www.txst.edu/it/services/chatgpt.html,gemini,True,gemini
-Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI policy,,https://www.txst.edu/handbook/academic-honor-code.html,gemini,True,gemini
-Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI policy,,https://www.txst.edu/it/ai-hub.html,gemini,True,gemini
-Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI policy,,https://www.txst.edu/ctls/resources/ai-in-academia.html,gemini,True,gemini
-Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI policy,,https://www.txst.edu/handbook.html,gemini,True,gemini
-Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI policy,,https://www.txst.edu/marcom/guidelines/ai-guidelines.html,gemini,True,gemini
-Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI academic integrity,,https://www.txst.edu/extended-learning/academic-integrity.html,gemini,True,gemini
+Highline College,https://www.highline.edu/,highline.edu,Highline College academic integrity,,https://www.highline.edu/student-services/community-standards-student-conduct/academic-integrity-process-overview/,gemini,True,gemini
+Highline College,https://www.highline.edu/,highline.edu,Highline College academic integrity,,https://www.highline.edu/student-services/community-standards-student-conduct/student-conduct-code/,gemini,True,gemini
+Highline College,https://www.highline.edu/,highline.edu,Highline College academic integrity,,https://www.highline.edu/student-services/community-standards-student-conduct/,gemini,True,gemini
+University of Pikeville,https://www.upike.edu/,upike.edu,University of Pikeville academic integrity,,https://www.upike.edu/academics/academic-catalog/,gemini,True,gemini
+University of Pikeville,https://www.upike.edu/,upike.edu,University of Pikeville academic integrity,,https://www.upike.edu/student-life/student-handbook/,gemini,True,gemini
+University of Pikeville,https://www.upike.edu/,upike.edu,University of Pikeville academic integrity,,https://www.upike.edu/academics/center-for-academic-excellence/,gemini,True,gemini
+University of Pikeville,https://www.upike.edu/,upike.edu,University of Pikeville academic integrity,,https://www.upike.edu/student-life/student-conduct/,gemini,True,gemini
+New York Law School,https://www.nyls.edu/,nyls.edu,New York Law School AI policy,,https://www.nyls.edu/about/administration/policies-and-reports/,gemini,True,gemini
+New York Law School,https://www.nyls.edu/,nyls.edu,New York Law School AI policy,,https://www.nyls.edu/students/student-life/student-code-of-conduct-and-academic-responsibility-rules-and-procedures/,gemini,True,gemini
+New York Law School,https://www.nyls.edu/,nyls.edu,New York Law School AI policy,,https://digitalcommons.nyls.edu/student_handbooks/,gemini,True,gemini
+New York Law School,https://www.nyls.edu/,nyls.edu,New York Law School academic integrity,,https://www.nyls.edu/wp-content/uploads/2023/09/student-code-of-conduct-and-academic-responsibility-rules-and-procedures.pdf,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI policy,,https://www.auburn.edu/academic/provost/academic-integrity/students/ai-guidance/,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI policy,,https://www.auburn.edu/administration/oacp/dicp/aiguidance.php,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI policy,,https://www.auburn.edu/academic/provost/resources/optional-guidelines-ai.php,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI policy,,https://www.auburn.edu/academic/provost/academic-integrity/faculty/ai-guidance/,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI policy,,https://biggio.auburn.edu/programs/artificial-intelligence/teaching-with-ai/,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI policy,,https://biggio.auburn.edu/programs/artificial-intelligence/syllabus-language-for-generative-artificial-intelligence/,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI policy,,https://biggio.auburn.edu/programs/artificial-intelligence/a-guide-to-ai-enhanced-learning/,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI policy,,https://www.auburn.edu/academic/provost/academic-integrity/,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI policy,,https://biggio.auburn.edu/programs/artificial-intelligence/advisory-guidance-on-use-of-generative-ai-tools/,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI guidance,,https://biggio.auburn.edu/artificial-intelligence-programs,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI guidance,,https://biggio.auburn.edu/artificial-intelligence-programs#syllabus-language,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI guidance,,https://biggio.auburn.edu/artificial-intelligence-programs#advisory-guidance,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University AI academic integrity,,https://www.auburn.edu/academic_affairs/provost/biggio/artificial-intelligence/ai-showcase.html,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://auburn.edu/academic/provost/academic-integrity/,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://auburn.edu/academic/provost/academic-integrity/violations/,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://auburn.edu/academic/provost/academic-integrity/students/rights-and-responsibilities/,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://auburn.edu/academic/provost/academic-integrity/students/ai-guidance/,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://auburn.edu/academic/provost/academic-integrity/faculty/ai-guidance/,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://auburn.edu/academic/provost/academic-integrity/about/,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://auburn.edu/academic/provost/academic-integrity/faculty/reporting-violations/,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://auburn.edu/academic/provost/academic-integrity/committee/,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://auburn.edu/academic/provost/academic-integrity/faculty/rights-and-responsibilities/,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://biggio.auburn.edu/programs/artificial-intelligence/ai-guidance,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://auburn.edu/academic/provost/resources/optional-guidelines-ai.php,gemini,True,gemini
+Auburn University,https://www.auburn.edu/,auburn.edu,Auburn University academic integrity,,https://www.auburn.edu/policies/handbook/,gemini,True,gemini
+Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI academic integrity,,https://www.extendedlearning.txst.edu/academic-integrity.html,gemini,True,gemini
 Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI academic integrity,,https://www.txst.edu/honorcode/academic-integrity.html,gemini,True,gemini
-Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI academic integrity,,https://www.handbook.txst.edu/where-to-find-info/academic-honor-code.html,gemini,True,gemini
-Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI academic integrity,,https://www.txst.edu/university-policies/upps/07/07-10-01.html,gemini,True,gemini
+Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI academic integrity,,https://www.txst.edu/honorcode/academic-integrity/ai-guidelines.html,gemini,True,gemini
 Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI academic integrity,,https://www.txst.edu/honorcode/,gemini,True,gemini
-Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI academic integrity,,https://www.its.txst.edu/it-service-catalog/software/chatgpt.html,gemini,True,gemini
+Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI academic integrity,,https://www.handbook.txst.edu/academic-policies/honor-code.html,gemini,True,gemini
+Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI academic integrity,,https://www.its.txst.edu/security/guidelines/ai-tools.html,gemini,True,gemini
+Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI academic integrity,,https://policies.txst.edu/upps/07/07-10-01.html,gemini,True,gemini
 Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI academic integrity,,https://www.txst.edu/honorcode/faculty/ai-guidelines.html,gemini,True,gemini
+Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI academic integrity,,https://www.ctls.txst.edu/teaching/ai-in-academia.html,gemini,True,gemini
+Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI academic integrity,,https://www.its.txst.edu/ai-hub/best-practices.html,gemini,True,gemini
 Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI academic integrity,,https://www.txst.edu/honorcode/students/ai-guidelines.html,gemini,True,gemini
-Texas State University,https://www.txst.edu/,txst.edu,Texas State University AI academic integrity,,https://www.its.txst.edu/ai/best-practices.html,gemini,True,gemini
-Texas State University,https://www.txst.edu/,txst.edu,Texas State University academic integrity,,https://www.txst.edu/academic-integrity/honor-code.html,gemini,True,gemini
+Texas State University,https://www.txst.edu/,txst.edu,Texas State University academic integrity,,https://www.extendedlearning.txst.edu/txst-online/academic-integrity.html,gemini,True,gemini
+Texas State University,https://www.txst.edu/,txst.edu,Texas State University academic integrity,,https://www.txst.edu/handbook/academic-honor-code.html,gemini,True,gemini
+Texas State University,https://www.txst.edu/,txst.edu,Texas State University academic integrity,,https://www.fss.txst.edu/isss/current-students/academic-integrity.html,gemini,True,gemini
+Texas State University,https://www.txst.edu/,txst.edu,Texas State University academic integrity,,https://www.txst.edu/students/rights-privileges-expectations.html,gemini,True,gemini
+Texas State University,https://www.txst.edu/,txst.edu,Texas State University academic integrity,,https://www.its.txst.edu/services/chatgpt.html,gemini,True,gemini
+Texas State University,https://www.txst.edu/,txst.edu,Texas State University academic integrity,,https://www.txst.edu/handbook.html,gemini,True,gemini
+Texas State University,https://www.txst.edu/,txst.edu,Texas State University academic integrity,,https://www.txst.edu/honorcode/student-resources/consequences.html,gemini,True,gemini
+Texas State University,https://www.txst.edu/,txst.edu,Texas State University academic integrity,,https://www.txst.edu/honorcode/faculty-resources/ai-guidelines.html,gemini,True,gemini
+Texas State University,https://www.txst.edu/,txst.edu,Texas State University academic integrity,,https://www.txst.edu/honorcode/student-resources/ai-guidelines.html,gemini,True,gemini
 Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University generative AI policy,,https://huit.harvard.edu/generative-ai-guidelines,gemini,True,gemini
 Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University generative AI policy,,https://oue.harvard.edu/generative-ai-guidance,gemini,True,gemini
 Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University generative AI policy,,https://www.gse.harvard.edu/registrar/hgse-ai-policy,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University generative AI policy,,https://metalab.harvard.edu/ai-code-of-conduct,gemini,True,gemini
 Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University generative AI policy,,https://bokcenter.harvard.edu/teaching-age-ai,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University generative AI policy,,https://hms.harvard.edu/departments/primary-care-review/guidelines-using-chatgpt-and-other-generative-artificial-intelligence-ai-tools-submissions-harvard-medical-school,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University generative AI policy,,https://extension.harvard.edu/resources-policies/academic-integrity,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University generative AI policy,,https://harvard.edu/teach-with-generative-ai,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University generative AI policy,,https://harvard.edu/generative-ai,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI policy,,https://www.huit.harvard.edu/generative-ai-guidelines,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI policy,,https://it.hms.harvard.edu/generative-ai,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University generative AI policy,,https://www.harvard.edu/teach-with-generative-ai,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University generative AI policy,,https://metalab.harvard.edu/ai-code-of-conduct,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University generative AI policy,,https://canvas.harvard.edu/courses/12345/pages/fundamentals-of-teaching-with-generative-ai,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University generative AI policy,,https://hms.harvard.edu/sites/default/files/assets/guidelines_for_using_chatgpt_and_other_generative_ai_tools_for_submissions_to_the_harvard_medical_school.pdf,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI policy,,https://oue.harvard.edu/academic-integrity-and-teaching-without-ai,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI policy,,https://extension.harvard.edu/resources-policies/academic-integrity/ai-technologies/,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI policy,,https://hms.harvard.edu/sites/g/files/hms/f/2023/08/15/hms_primary_care_review_ai_guidelines_august_2023.pdf,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI policy,,https://canvas.harvard.edu/courses/117777/pages/fundamentals-of-teaching-with-generative-ai,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI policy,,https://www.harvard.edu/teaching-learning/teach-with-generative-ai/,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI policy,,https://www.seas.harvard.edu/communications/ai-marketing-guidelines,gemini,True,gemini
 Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI policy,,https://metalab.harvard.edu/ai-code-of-conduct/,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI policy,,https://academicintegrity.harvard.edu/academic-integrity-and-teaching-without-ai,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI policy,,https://extension.harvard.edu/resources-policies/academic-integrity/,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI guidance,,https://academic-integrity.harvard.edu/ai,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI guidance,,https://honor.fas.harvard.edu/academic-integrity-and-teaching-without-ai,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI guidance,,https://www.harvard.edu/generative-ai/for-faculty/,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI guidance,,https://canvas.harvard.edu/courses/111923/pages/fundamentals-of-teaching-with-generative-ai,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI guidance,,https://www.seas.harvard.edu/communications/ai-marketing-guidelines,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI academic integrity,,https://handbook.fas.harvard.edu/book/plagiarism-and-collaboration,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI academic integrity,,https://academicintegrity.harvard.edu/,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI academic integrity,,https://bokcenter.harvard.edu/academic-integrity-and-teaching-without-ai,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI guidance,,https://www.harvard.edu/generative-ai/,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI guidance,,https://news.harvard.edu/gazette/story/2023/09/time-for-teachers-to-get-moving-on-chatgpt/,gemini,True,gemini
 Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI academic integrity,,https://bokcenter.harvard.edu/teaching-and-ai,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University academic integrity,,https://oaisc.harvard.edu/,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University academic integrity,,https://hms.harvard.edu/departments/primary-care/primary-care-review/guidelines-using-chatgpt-and-other-generative-artificial-intelligence-ai-tools-submissions-primary-care-review,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University academic integrity,,https://handbook.fas.harvard.edu/,gemini,True,gemini
-Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University academic integrity,,https://oaisc.harvard.edu/policies,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI academic integrity,,https://hms.harvard.edu/departments/primary-care/primary-care-review/guidelines-using-chatgpt-and-other-generative-artifical-intelligence-ai-tools-submissions-harvard-medical-sch,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI academic integrity,,https://extension.harvard.edu/resources-policies/academic-integrity/,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI academic integrity,,https://academicintegrity.harvard.edu/academic-integrity-and-teaching-without-ai,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI academic integrity,,https://academicintegrity.harvard.edu/policies,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI academic integrity,,https://academicintegrity.harvard.edu/,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI academic integrity,,https://www.hks.harvard.edu/more/teaching-learning/generative-ai,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI academic integrity,,https://handbook.college.harvard.edu/,gemini,True,gemini
+Harvard University,https://www.harvard.edu/,harvard.edu,Harvard University AI academic integrity,,https://harvard.edu/teach/generative-ai,gemini,True,gemini
 New York University,https://www.nyu.edu/,nyu.edu,New York University AI policy,,https://www.nyu.edu/faculty/teaching-and-learning-resources/teaching-with-generative-ai.html,gemini,True,gemini
-New York University,https://www.nyu.edu/,nyu.edu,New York University AI academic integrity,,https://steinhardt.nyu.edu/faculty/academic-integrity-and-syllabus-support-age-generative-ai,gemini,True,gemini
+New York University,https://www.nyu.edu/,nyu.edu,New York University AI academic integrity,,https://bulletins.nyu.edu/academic-policies/academic-integrity-policy,gemini,True,gemini
 New York University,https://www.nyu.edu/,nyu.edu,New York University AI academic integrity,,https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/academic-policies-and-procedures.html,gemini,True,gemini
-New York University,https://www.nyu.edu/,nyu.edu,New York University AI academic integrity,,https://www.nyu.edu/academics/nyu-bulletins/academic-integrity-policy.html,gemini,True,gemini
+New York University,https://www.nyu.edu/,nyu.edu,New York University AI academic integrity,,https://www.nyu.edu/faculty/teaching-and-learning-resources/teaching-with-generative-ai/faq-about-teaching-and-ai.html,gemini,True,gemini
 New York University,https://www.nyu.edu/,nyu.edu,New York University AI academic integrity,,https://liberalstudies.nyu.edu/academics/academic-integrity-policy-procedure.html,gemini,True,gemini
-New York University,https://www.nyu.edu/,nyu.edu,New York University AI academic integrity,,https://www.nyu.edu/faculty/teaching-and-learning/teaching-with-generative-ai/frequently-asked-questions-about-teaching-and-ai.html,gemini,True,gemini
-New York University,https://www.nyu.edu/,nyu.edu,New York University AI academic integrity,,https://www.nyu.edu/faculty/teaching-and-learning/teaching-with-generative-ai/genai-academic-integrity.html,gemini,True,gemini
-New York University,https://www.nyu.edu/,nyu.edu,New York University AI academic integrity,,https://www.nyu.edu/faculty/teaching-and-learning/teaching-with-generative-ai.html,gemini,True,gemini
-New York University,https://www.nyu.edu/,nyu.edu,New York University AI academic integrity,,https://engineering.nyu.edu/life-tandon/student-code-conduct,gemini,True,gemini
-New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://www.nyu.edu/about/policies-and-guidelines/academic-policies-and-procedures/academic-integrity-for-students-at-nyu.html,gemini,True,gemini
-New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://www.nyu.edu/academics/schools-and-colleges/school-of-professional-studies/student-resources/academic-integrity-policy.html,gemini,True,gemini
-New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://gsas.nyu.edu/academic-life/policies-and-procedures/academic-integrity.html,gemini,True,gemini
-New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://cs.nyu.edu/home/undergrad/academic_integrity.html,gemini,True,gemini
-New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://tisch.nyu.edu/student-affairs/academic-integrity,gemini,True,gemini
-New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://www.nyu.edu/faculty/teaching-and-learning-resources/teaching-with-generative-ai/genai-academic-integrity.html,gemini,True,gemini
+New York University,https://www.nyu.edu/,nyu.edu,New York University AI academic integrity,,https://www.nyu.edu/faculty/teaching-and-learning-resources/teaching-with-generative-ai/genai-academic-integrity.html,gemini,True,gemini
+New York University,https://www.nyu.edu/,nyu.edu,New York University AI academic integrity,,https://www.nyu.edu/faculty/teaching-and-learning-resources/teaching-with-generative-ai/student-learning-with-generative-ai.html,gemini,True,gemini
+New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://as.nyu.edu/academic-integrity.html,gemini,True,gemini
+New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://gsas.nyu.edu/academic-life/academic-integrity.html,gemini,True,gemini
+New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://www.nyu.edu/faculty/teaching-and-learning-resources/academic-policies-and-procedures.html,gemini,True,gemini
+New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://www.nyu.edu/faculty/teaching-and-learning-resources/teaching-and-learning-committees/student-learning-with-generative-ai.html,gemini,True,gemini
+New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://www.nyu.edu/faculty/teaching-and-learning-resources/teaching-and-learning-committees/genai-academic-integrity.html,gemini,True,gemini
+New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://liberalstudies.nyu.edu/academic-integrity-guide.html,gemini,True,gemini
 New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://steinhardt.nyu.edu/faculty/teaching-and-learning/academic-integrity-and-syllabus-support-age-generative-ai,gemini,True,gemini
-New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://www.nyu.edu/about/policies-and-guidelines/academic-policies-and-procedures.html,gemini,True,gemini
+New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://www.nyu.edu/academics/nyu-bulletins/academic-integrity-policy.html,gemini,True,gemini
+New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://tisch.nyu.edu/academics/academic-integrity,gemini,True,gemini
+New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://cs.nyu.edu/home/academic_integrity/index.html,gemini,True,gemini
+New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/standards-of-conduct.html,gemini,True,gemini
+New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://engineering.nyu.edu/life-tandon/student-code-conduct,gemini,True,gemini
+New York University,https://www.nyu.edu/,nyu.edu,New York University academic integrity,,https://steinhardt.nyu.edu/offices/student-affairs/policies/academic-integrity,gemini,True,gemini
